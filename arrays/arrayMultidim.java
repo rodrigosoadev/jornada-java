@@ -3,11 +3,18 @@ package arrays;
 //array multidimensionais
 public class arrayMultidim {
     public static void main(String[] args) {
-        int[] [] arrayMult = new int[2][2];
-        arrayMult[0][0] =22 ;
-        arrayMult[0][1] = 11;
-        arrayMult[1][0] = 44;
-        arrayMult[1][1] = 55;
-        System.out.println(arrayMult[1][0]);
-    }
-}
+        int[] [] dias = new int[2][2];
+        dias[0][0] =22 ;
+        dias[0][1] = 11;
+        dias[1][0] = 31;
+        dias[1][1] = 23;
+        
+        for (int[] ref : dias) {
+            for (int dia : ref) {
+                System.out.println(dia);
+            }
+        }
+
+
+    }}
+
