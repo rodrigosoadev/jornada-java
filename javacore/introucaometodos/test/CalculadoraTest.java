@@ -9,6 +9,9 @@ public class CalculadoraTest {
         calc.somaDoisNumeros();
         calc.subtraiDoisNumeros();
         calc.multiplicaDoisNumeros(2, 4);
+        //System.out.println(calc.divideDoisNumeros(8, 2));
+        double resultado = calc.divideDoisNumeros(8, 2);
+        System.out.println(resultado);
         System.out.println("Continuando a exec");
         
         
