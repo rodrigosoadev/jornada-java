@@ -7,8 +7,10 @@ public class CalculadoraTest {
         Calculadora calc = new Calculadora();
         
         calc.somaDoisNumeros();
-        System.out.println("Continuando a exec");
         calc.subtraiDoisNumeros();
+        calc.multiplicaDoisNumeros(2, 4);
+        System.out.println("Continuando a exec");
+        
         
     }
 }
