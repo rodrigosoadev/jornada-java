@@ -1,4 +1,4 @@
-package javacore.introucaometodos.classes;
+package javacore.introducaometodos.classes;
 
 public class Calculadora {
     //void é retorno
@@ -29,6 +29,14 @@ public class Calculadora {
         }else{
             System.out.println("Não é possível dividir por 0");
         }
-        
+    }
+
+    public void alteraDoisNumeros (int a, int b) {
+        a = 30;
+        b = 40;
+
+        System.out.println("Dentro do altera dois numeros");
+        System.out.println("num1: "+a);
+        System.out.println("num2: "+b);
     }
 }
