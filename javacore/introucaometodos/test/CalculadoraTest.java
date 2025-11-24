@@ -10,9 +10,10 @@ public class CalculadoraTest {
         calc.subtraiDoisNumeros();
         calc.multiplicaDoisNumeros(2, 4);
         //System.out.println(calc.divideDoisNumeros(8, 2));
-        double resultado = calc.divideDoisNumeros(8, 2);
+        double resultado = calc.divideDoisNumeros(20, 0);
         System.out.println(resultado);
         System.out.println("Continuando a exec");
+        calc.imprimeDoisNumerosDivididos(20, 2);
         
         
     }
