@@ -18,8 +18,9 @@ public class ProfessorTeste {
         prof2.nome = "Soares";
 
 
-        prof.imprime(prof);
-        prof.imprime(prof2);
+       prof.imprime();
+       prof2.imprime();
+        
 
         
     }
