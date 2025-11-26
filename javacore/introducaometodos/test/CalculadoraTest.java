@@ -3,7 +3,7 @@ package javacore.introducaometodos.test;
 import javacore.introducaometodos.classes.Calculadora;
 
 public class CalculadoraTest {
-    public static void main(String[] args) {
+    public static void main(String... args) {
         Calculadora calc = new Calculadora();
         
         calc.somaDoisNumeros();
@@ -14,7 +14,9 @@ public class CalculadoraTest {
         System.out.println(resultado);
         System.out.println("Continuando a exec");
         calc.imprimeDoisNumerosDivididos(20, 2);
-        
-        
+
+        int[] numeros = {1,2,3,4,5};
+        calc.somaArray(numeros);
+        calc.somaVarArgs(1,2,3,4,5);
     }
 }
