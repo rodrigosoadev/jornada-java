@@ -1,28 +1,70 @@
 package javacore.introducaometodos.classes;
 
 public class Estudante {
-    public String nome;
-    public String idade;
-    public double nota1;
-    public double nota2;
-    public double nota3;
+    private String nome;
+    private int idade;
+    private double[] notas;
+
 
     public void dadosEstudante() {
         
         System.out.println("Dados do estudante:");
-         System.out.println("Nome: "+this.nome);
-         System.out.println("Idade: "+this.idade);
-         System.out.println("Primeira nota: "+this.nota1);
-         System.out.println("Segunda nota: "+this.nota2);
-         System.out.println("Terceira nota: "+this.nota3);
+        System.out.println("Nome: "+this.nome);
+        System.out.println("Idade: "+this.idade);
+        for (double nota : notas) {
+            System.out.print("Nota: "+ nota+" ");
+         }
     }
 
-    public void imprimirMedia(double num1, double num2, double num3) {
+    public void imprimirMedia() {
+        if (this.notas == null) {
+            System.out.println("Esse aluno não possui notas");
+            return;
+        }
+        double media = 0;
+        for (double nota : this.notas) {
+            media += nota;
+        }
+        media = media / this.notas.length;
+
+        if (media >= 6){
+            System.out.println(" Situação: Aprovado");
+        }else{
+            System.out.println(" Situação: Reprovado");
+        }
+
         
-        if ((num1 + num2 + num3) / 3 >= 6){
-            System.out.println("O aluno "+nome+" Foi Aprovado");
-        }else {
-            System.out.println("O aluno "+nome+" Foi Reprovado");
-        };
     }
+    //modificadores
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public void setIdade(int idade) {
+        if (idade < 0 ){
+            System.out.println("Idade inválida");
+        }
+        this.idade = idade;
+    }
+
+    public void setNotas(double[] notas) {
+        this.notas = notas;
+    }
+
+    public String getNome(){
+        if (nome == null){
+            System.out.println("Por favor, digite um nome");
+        }
+        return this.nome;
+    }
+
+    public int getIdade(){
+        return this.idade;
+    }
+
+    public double[] getNotas(){
+        return this.notas;
+    }
+    // fim modificadores 
+
 }
