@@ -12,13 +12,15 @@ public class EstudanteTest {
        // String nome = scanner.next();
 
         estudante.setNome("Rodrigo");
-        estudante.setIdade(0);
+        estudante.setIdade(-1);
         estudante.setNotas(new double[] {8,8,10});
         
         estudante.dadosEstudante();
         estudante.imprimirMedia();
-
-
+        //System.out.println("estudante: "+estudante.getNome());
+        System.out.println("aprovado? "+ estudante.isAprovado());
+        estudante.isAprovado();
+        
         
 
     

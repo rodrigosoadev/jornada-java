@@ -4,6 +4,7 @@ public class Estudante {
     private String nome;
     private int idade;
     private double[] notas;
+    private boolean aprovado;
 
 
     public void dadosEstudante() {
@@ -28,8 +29,10 @@ public class Estudante {
         media = media / this.notas.length;
 
         if (media >= 6){
+            this.aprovado = true;
             System.out.println(" Situação: Aprovado");
         }else{
+            this.aprovado = false;
             System.out.println(" Situação: Reprovado");
         }
 
@@ -65,6 +68,9 @@ public class Estudante {
     public double[] getNotas(){
         return this.notas;
     }
-    // fim modificadores 
 
+    public boolean isAprovado(){
+        return this.aprovado;
+    }
+    // fim modificadores 
 }
