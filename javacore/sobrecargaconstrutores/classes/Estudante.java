@@ -29,6 +29,8 @@ public class Estudante {
 
 
     //meotodo inicial
+    //get serve para retornar o valor do atributo
+    //set serve para modificar o valor do atributo
     public String getMatricula() {
         return matricula;
     }

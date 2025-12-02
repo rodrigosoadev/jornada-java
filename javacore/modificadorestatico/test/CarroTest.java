@@ -1,0 +1,23 @@
+package javacore.modificadorestatico.test;
+
+import javacore.modificadorestatico.classes.Carro;
+
+public class CarroTest {
+    public static void main(String[] args) {
+        Carro carro1 = new Carro("Bmw", 280);
+        Carro carro2 = new Carro("Audi", 275);
+        Carro carro3 = new Carro("Mercedes", 290);
+        
+        carro1.imprime();
+        carro2.imprime();
+        carro3.imprime();
+
+        System.out.println("#############");
+
+        Carro.velocidadeLimite = 220;
+        
+        carro1.imprime();
+        carro2.imprime();
+        carro3.imprime();
+    }
+}
