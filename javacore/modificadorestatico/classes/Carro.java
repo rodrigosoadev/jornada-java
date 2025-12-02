@@ -4,7 +4,7 @@ public class Carro {
     // velocidade limite deve ser 240km/h
     private String nome;
     private double velocidadeMaxima;
-    public static double velocidadeLimite = 240;
+    private static double velocidadeLimite = 240;
 
     
     public Carro(String nome, double velocidadeMaxima) {
@@ -25,7 +25,16 @@ public class Carro {
     }
     
 
-    //modificado inicial
+    //modificado inicial + modificado com STATIC
+
+    public static void setVelocidadeLimite(double velocidadeLimite){
+        Carro.velocidadeLimite = velocidadeLimite;
+    }
+
+    public static double getVelocidadeLimite() {
+        return velocidadeLimite;
+    }
+
 
     public void setNome(String nome) {
         this.nome = nome;
