@@ -15,8 +15,6 @@ public class CarroTest {
 
         System.out.println("#############");
 
-        
-        
         carro1.imprime();
         carro2.imprime();
         carro3.imprime();
