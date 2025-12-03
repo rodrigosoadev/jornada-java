@@ -10,22 +10,34 @@ public class Seminario {
         this.titulo = titulo;
     }
 
-    public Seminario(){
+    public Seminario() {
     }
-    
-    public void printSeminario() {System.out.println("---------------Relatório de seminários---------------");
-        System.out.println("Titulo: "+this.titulo);
-        System.out.println("Professor palestrante: "+this.professor.getNome());
-        System.out.println("Local: "+this.local.getRua() + " , Bairro: "+this.getLocal().getBairro());
+
+    public void printSeminario() {
+        System.out.println("---------------Relatório de seminários---------------");
+        System.out.println("Titulo: " + this.titulo);
+        System.out.println("Professor palestrante: " + this.professor.getNome());
+        if (this.local != null) {
+            System.out.println("Local: " + this.local.getRua() + " , Bairro: " + this.getLocal().getBairro());
+        } else {
+            System.out.println("Sem local registrado para esse seminário");
+        }
+
         System.out.println("Alunos participantes: ");
-        for (Aluno aluno : alunos) {
-            System.out.println(aluno.getNome());
+        if (this.alunos != null && this.alunos.length != 0) {
+            for (Aluno aluno : alunos) {
+                System.out.println(aluno.getNome());
+            }
+        } else {
+            System.out.println("Sem aluno inscrito para esse seminário");
         }
 
     }
+
     public String getTitulo() {
         return titulo;
     }
+
     public void setTitulo(String titulo) {
         this.titulo = titulo;
     }
@@ -54,8 +66,4 @@ public class Seminario {
         this.local = local;
     }
 
-    
-
-
-    
 }
