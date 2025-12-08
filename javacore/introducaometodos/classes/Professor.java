@@ -12,9 +12,18 @@ public class Professor {
         System.out.println(this.matricula);
         System.out.println(this.rg);
         System.out.println(this.nome);
-        
-
-        
     }
+
+    public void setRg(String rg) {
+        this.rg = rg;
+    }
+
+    public String getRg() {
+        return rg;
+    }
+
+    
+
+    
 
 }
