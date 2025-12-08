@@ -2,12 +2,19 @@ package javacore.heranca.classes;
 
 import javacore.introducaometodos.classes.Professor;
 
-public class Pessoa extends Professor {
+public class Pessoa extends Object{
     // com protected consigo acessar o obj que estão na mesma pasta ou fora do pacote contando que seja filha da classe
     protected String nome;
     protected String cpf;
     protected Endereco endereco;
 
+    public Pessoa(String nome) {
+        this.nome = nome;
+    }
+
+    public Pessoa() {
+        
+    }
 
     public void print(){
         System.out.println("Nome: "+this.nome);

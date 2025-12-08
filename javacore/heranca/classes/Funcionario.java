@@ -4,6 +4,14 @@ public class Funcionario extends Pessoa{
 
     private double salario;
 
+    public Funcionario(String nome) {
+        super(nome);
+    }
+
+    public Funcionario(){
+        super();
+    }
+
     public void print() {
         super.print();
         System.out.println("Salário: "+this.salario);
