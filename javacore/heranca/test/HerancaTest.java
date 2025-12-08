@@ -16,6 +16,7 @@ public class HerancaTest {
         p.setRg("000000");
         p.setEndereco(end);
         
+        
         p.print();
         
         System.out.println("-------------");
@@ -24,7 +25,9 @@ public class HerancaTest {
         f.setCpf("7654321");
         f.setSalario(1231);
         f.setEndereco(end);
+
         f.print();
+        
         
 
     }
