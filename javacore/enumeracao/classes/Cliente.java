@@ -1,17 +1,24 @@
 package javacore.enumeracao.classes;
 
 public class Cliente {
-    private String nome;
-    private TipoCliente tipo;
+    public enum TipoPagamento {
+        AVISTA, APRAZO
+    }
 
-    public Cliente(String nome, TipoCliente tipo) {
+    private String nome;
+    private TipoCliente tipoCliente;
+    private TipoPagamento tipoPagamento;
+
+    public Cliente(String nome, TipoCliente tipo, TipoPagamento tipoPagamento) {
         this.nome = nome;
-        this.tipo = tipo;
+        this.tipoCliente = tipo;
+        this.tipoPagamento = tipoPagamento;
     }
 
     @Override
     public String toString() {
-        return "Cliente nome: " + nome + ", tipo: " + tipo + "";
+        return "Cliente nome: " + nome + ", tipo: " + tipoCliente.getNome() + "" + ", Forma de pagamento: " + tipoPagamento
+                + ", numero: " + tipoCliente.getTipo();
     }
 
     public String getNome() {
@@ -23,11 +30,19 @@ public class Cliente {
     }
 
     public TipoCliente getTipo() {
-        return tipo;
+        return tipoCliente;
     }
 
     public void setTipo(TipoCliente tipo) {
-        this.tipo = tipo;
+        this.tipoCliente = tipo;
+    }
+
+    public TipoPagamento getTipoPagamento() {
+        return tipoPagamento;
+    }
+
+    public void setTipoPagamento(TipoPagamento tipoPagamento) {
+        this.tipoPagamento = tipoPagamento;
     }
 
 }
