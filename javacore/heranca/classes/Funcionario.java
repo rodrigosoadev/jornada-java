@@ -1,6 +1,6 @@
 package javacore.heranca.classes;
 
-public class Funcionario extends Pessoa{
+public class Funcionario extends Pessoa {
 
     private double salario;
 
@@ -8,26 +8,26 @@ public class Funcionario extends Pessoa{
         super(nome);
     }
 
-    public Funcionario(){
+    public Funcionario() {
         super();
     }
 
     public void print() {
         super.print();
-        System.out.println("Salário: "+this.salario);
+        System.out.println("Salário: " + this.salario);
         imprimeReciboPagamento();
     }
 
     public void imprimeReciboPagamento() {
-        System.out.println("Eu "+super.nome+" recebi o pagamento de "+this.salario);
+        System.out.println("Eu " + super.nome + " recebi o pagamento de " + this.salario);
     }
 
     public double getSalario() {
         return salario;
     }
+
     public void setSalario(double salario) {
         this.salario = salario;
     }
 
-    
 }
