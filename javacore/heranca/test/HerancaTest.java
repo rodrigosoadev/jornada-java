@@ -1,8 +1,8 @@
 package javacore.heranca.test;
 
-import javacore.heranca.classes.Endereco;
-import javacore.heranca.classes.Funcionario;
-import javacore.heranca.classes.Pessoa;
+import javacore.heranca.dominio.Endereco;
+import javacore.heranca.dominio.Funcionario;
+import javacore.heranca.dominio.Pessoa;
 
 public class HerancaTest {
     public static void main(String[] args) {

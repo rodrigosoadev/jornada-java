@@ -1,6 +1,6 @@
 package javacore.sobrecargaconstrutores.test;
 
-import javacore.sobrecargaconstrutores.classes.Estudante;
+import javacore.sobrecargaconstrutores.dominio.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

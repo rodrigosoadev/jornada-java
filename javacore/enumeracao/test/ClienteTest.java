@@ -1,7 +1,7 @@
 package javacore.enumeracao.test;
 
-import javacore.enumeracao.classes.Cliente;
-import javacore.enumeracao.classes.TipoCliente;
+import javacore.enumeracao.dominio.Cliente;
+import javacore.enumeracao.dominio.TipoCliente;
 
 public class ClienteTest {
     public static void main(String[] args) {

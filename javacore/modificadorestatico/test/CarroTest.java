@@ -1,6 +1,6 @@
 package javacore.modificadorestatico.test;
 
-import javacore.modificadorestatico.classes.Carro;
+import javacore.modificadorestatico.dominio.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

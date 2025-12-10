@@ -1,5 +1,5 @@
 package javacore.introducaoclass.test;
-import javacore.introducaoclass.classes.Moto;
+import javacore.introducaoclass.dominio.Moto;
 
 public class MotoTest {
     public static void main(String[] args) {

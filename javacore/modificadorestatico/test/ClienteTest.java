@@ -1,6 +1,6 @@
 package javacore.modificadorestatico.test;
 
-import javacore.modificadorestatico.classes.Cliente;
+import javacore.modificadorestatico.dominio.Cliente;
 
 public class ClienteTest {
     public static void main(String[] args) {

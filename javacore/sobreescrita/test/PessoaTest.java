@@ -1,6 +1,6 @@
 package javacore.sobreescrita.test;
 
-import javacore.sobreescrita.classes.Pessoa;
+import javacore.sobreescrita.dominio.Pessoa;
 
 public class PessoaTest {
     public static void main(String[] args) {

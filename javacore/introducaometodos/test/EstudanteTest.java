@@ -2,7 +2,7 @@ package javacore.introducaometodos.test;
 
 import java.util.Scanner;
 
-import javacore.introducaometodos.classes.Estudante;
+import javacore.introducaometodos.dominio.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

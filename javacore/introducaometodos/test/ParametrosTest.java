@@ -1,6 +1,6 @@
 package javacore.introducaometodos.test;
 
-import javacore.introducaometodos.classes.Calculadora;
+import javacore.introducaometodos.dominio.Calculadora;
 
 public class ParametrosTest {
     public static void main(String[] args) {

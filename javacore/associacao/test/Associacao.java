@@ -1,9 +1,9 @@
 package javacore.associacao.test;
 
-import javacore.associacao.classes.Aluno;
-import javacore.associacao.classes.Local;
-import javacore.associacao.classes.Professor;
-import javacore.associacao.classes.Seminario;
+import javacore.associacao.dominio.Aluno;
+import javacore.associacao.dominio.Local;
+import javacore.associacao.dominio.Professor;
+import javacore.associacao.dominio.Seminario;
 
 public class Associacao {
     public static void main(String[] args) {

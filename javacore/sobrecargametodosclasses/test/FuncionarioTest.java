@@ -1,6 +1,6 @@
 package javacore.sobrecargametodosclasses.test;
 
-import javacore.sobrecargametodosclasses.classes.Funcionario;
+import javacore.sobrecargametodosclasses.dominio.Funcionario;
 
 public class FuncionarioTest {
     public static void main(String[] args) {
