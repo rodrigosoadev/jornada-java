@@ -1,14 +1,18 @@
 package javacore.classeabstratas.test;
 
-import javacore.classeabstratas.dominio.Desenvolvedor;
 import javacore.classeabstratas.dominio.Funcionario;
 import javacore.classeabstratas.dominio.Gerente;
+import javacore.classeabstratas.dominio.Vendedor;
 
-public  class FuncionarioTest {
+public class FuncionarioTest {
     public static void main(String[] args) {
-        Gerente gerente = new Gerente("Gabriel", 5000);
-        Desenvolvedor dev = new Desenvolvedor("Ricardo", 2500);
-        System.out.println(gerente);
-        System.out.println(dev);
+        Vendedor v = new Vendedor("Rodrigo", "23232-1", 1889);
+        Gerente g = new Gerente("Gabriel", "54387-1", 3000);
+        v.calculaSalario();
+        g.calculaSalario();
+        System.out.println(v);
+        System.out.println("-----------------");
+        System.out.println(g);
+
     }
 }
