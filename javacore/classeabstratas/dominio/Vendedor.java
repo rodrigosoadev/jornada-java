@@ -16,17 +16,23 @@ public class Vendedor  extends Funcionario{
         this.salario = salario + (salario * 0.05);
     }
 
-    public double getTotalVendas() {
+
+    @Override
+    public String toString() {
+        return "O vendedor: "+nome+ ", CLT: "+clt + ", possui o salário de: "+salario;
+    }
+
+    @Override
+    public void imprime() {
+        System.out.println("Dentro do metodo imprime");
+    }
+
+     public double getTotalVendas() {
         return totalVendas;
     }
 
     public void setTotalVendas(double totalVendas) {
         this.totalVendas = totalVendas;
-    }
-
-    @Override
-    public String toString() {
-        return "O vendedor: "+nome+ ", CLT: "+clt + ", possui o salário de: "+salario;
     }
    
     

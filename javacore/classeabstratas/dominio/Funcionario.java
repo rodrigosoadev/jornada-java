@@ -1,6 +1,6 @@
 package javacore.classeabstratas.dominio;
 
-public abstract class Funcionario {
+public abstract class Funcionario extends Pessoa{
     protected String nome;
     protected String clt;
     protected double salario;
@@ -15,10 +15,16 @@ public abstract class Funcionario {
         return "Funcionario: " + nome + " Clt: " + clt + ", posssui o salario de: " + salario;
     }
 
+
+
     public Funcionario(String nome, String clt, double salario) {
         this.nome = nome;
         this.clt = clt;
         this.salario = salario;
+    }
+
+    public void imprime() {
+        System.out.println("Dentro do imprime do funcionario");
     }
 
     public String getNome() {

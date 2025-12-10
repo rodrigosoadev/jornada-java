@@ -1,6 +1,5 @@
 package javacore.classeabstratas.test;
 
-import javacore.classeabstratas.dominio.Funcionario;
 import javacore.classeabstratas.dominio.Gerente;
 import javacore.classeabstratas.dominio.Vendedor;
 
