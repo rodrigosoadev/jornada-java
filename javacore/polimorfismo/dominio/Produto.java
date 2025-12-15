@@ -1,6 +1,6 @@
 package javacore.polimorfismo.dominio;
 
-public abstract class Produto  implements Taxavel{
+public abstract class Produto implements Taxavel {
     protected String nome;
     protected double valor;
 
@@ -16,7 +16,5 @@ public abstract class Produto  implements Taxavel{
     public double getValor() {
         return valor;
     }
-
-    
 
 }

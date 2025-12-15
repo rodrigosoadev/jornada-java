@@ -11,7 +11,6 @@ public class ProdutoTest01 {
         Tomate t = new Tomate("Tomate Italiano", 10);
         Televisao tv = new Televisao("Samsung 50\" ", 5000);
 
-
         CalculadoraImposto.caulcularImposto(c);
         System.out.println("-----------------------");
         CalculadoraImposto.caulcularImposto(t);
