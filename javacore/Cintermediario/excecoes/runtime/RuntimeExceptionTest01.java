@@ -1,6 +1,6 @@
 package javacore.Cintermediario.excecoes.runtime;
 
-public class RuntimeExeceptionTest01 {
+public class RuntimeExceptionTest01 {
 public static void main(String[] args) {
     // checked e Unchecked
     int[] nums = {1,2};
