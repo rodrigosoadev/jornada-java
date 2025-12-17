@@ -1,5 +1,7 @@
 package javacore.Cintermediario.excecoes.runtime;
+
 //sempre usar as exceções mais especificas possíveis, como por exemplo  IllegalStateException
+//Independente do que for, implemente o tratamento da exceção!!!
 public class RuntimeExceptionTest02 {
     public static void main(String[] args) {
         System.out.println(divisao(1, 0));
@@ -9,7 +11,7 @@ public class RuntimeExceptionTest02 {
      * 
      * @param a
      * @param b - Não pode ser 0
-     * @return 
+     * @return
      * @throws IllegalStateException caso b seja zero
      */
 
@@ -17,12 +19,12 @@ public class RuntimeExceptionTest02 {
         if (b == 0) {
             throw new IllegalStateException("Argumento inválido, não pode ser 0");
         }
-        //try {
-       //     return a / b;
+        // try {
+        // return a / b;
 
-       // } catch (RuntimeException e) {
-        //   e.printStackTrace();
-      //  }
-        return 0;
+        // } catch (RuntimeException e) {
+        // e.printStackTrace();
+        // }
+        return a / b;
     }
 }
