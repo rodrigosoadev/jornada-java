@@ -1,10 +1,10 @@
-package javacore.Cintermediario.Cstring;
+package javacore.Cintermediario.Cstring.test;
 
 public class StringTest01 {
     public static void main(String[] args) {
         String nome = "Rodrigo"; // string constant pool 
         String nome2 = "Rodrigo";
-        nome = nome.concat(" Soares");
+        nome = nome.concat(" Soares"); // é a mesma coisa de nome+= " Soares"
         System.out.println(nome);
         System.out.println(nome == nome2);
         
