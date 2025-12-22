@@ -11,5 +11,6 @@ public class StringTest02 {
         System.out.println(nome.toUpperCase());
         System.out.println(numeros.substring(3,numeros.length()));
         System.out.println(nome.trim()); // remove os espaços em branco
+        
     }
 }
