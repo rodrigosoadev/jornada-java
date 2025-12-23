@@ -1,4 +1,4 @@
-package javacore.Ddatas.test;
+package javacore.Cintermediario.Ddatas.test;
 
 import java.util.Date;
 

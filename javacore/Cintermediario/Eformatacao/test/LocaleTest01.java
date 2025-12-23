@@ -1,4 +1,4 @@
-package javacore.Ddatas.test;
+package javacore.Cintermediario.Eformatacao.test;
 
 import java.sql.Date;
 import java.text.DateFormat;
