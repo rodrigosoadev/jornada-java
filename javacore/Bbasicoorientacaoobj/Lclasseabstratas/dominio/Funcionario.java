@@ -16,7 +16,6 @@ public abstract class Funcionario extends Pessoa{
     }
 
 
-
     public Funcionario(String nome, String clt, double salario) {
         this.nome = nome;
         this.clt = clt;
