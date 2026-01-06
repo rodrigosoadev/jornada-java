@@ -1,0 +1,21 @@
+package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.test;
+
+import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Computador;
+import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Televisao;
+import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Tomate;
+import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.servico.CalculadoraImposto;
+
+public class ProdutoTest01 {
+    public static void main(String[] args) {
+        Computador c = new Computador("NUC10I7", 9000);
+        Tomate t = new Tomate("Tomate Italiano", 10);
+        Televisao tv = new Televisao("Samsung 50\" ", 5000);
+
+        CalculadoraImposto.caulcularImposto(c);
+        System.out.println("-----------------------");
+        CalculadoraImposto.caulcularImposto(t);
+        System.out.println("-----------------------");
+        CalculadoraImposto.caulcularImposto(tv);
+
+    }
+}
