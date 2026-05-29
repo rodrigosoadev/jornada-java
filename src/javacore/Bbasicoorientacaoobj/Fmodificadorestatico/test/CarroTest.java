@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.test;
+package javacore.Bbasicoorientacaoobj.Fmodificadorestatico.test;
 
-import src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio.Carro;
+import javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio.Carro;
 
 public class CarroTest {
     public static void main(String[] args) {

@@ -1,5 +1,5 @@
-package src.javacore.Bbasicoorientacaoobj.Aintroducaoclass.test;
-import src.javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio.Moto;
+package javacore.Bbasicoorientacaoobj.Aintroducaoclass.test;
+import javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio.Moto;
 
 public class MotoTest {
     public static void main(String[] args) {

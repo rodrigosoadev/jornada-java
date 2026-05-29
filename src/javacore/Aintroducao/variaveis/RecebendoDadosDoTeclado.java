@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.variaveis;
+package javacore.Aintroducao.variaveis;
 import java.util.Scanner;
 
 public class RecebendoDadosDoTeclado {

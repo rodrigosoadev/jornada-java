@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Eformatacao.test;
+package javacore.Cintermediario.Eformatacao.test;
 
 import java.text.DateFormat;
 import java.util.Calendar;

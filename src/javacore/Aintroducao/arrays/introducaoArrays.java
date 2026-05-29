@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.arrays;
+package javacore.Aintroducao.arrays;
 
 public class introducaoArrays {
     public static void main(String[] args) {

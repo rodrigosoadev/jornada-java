@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Eblocodeinicializacao.dominio;
+package javacore.Bbasicoorientacaoobj.Eblocodeinicializacao.dominio;
     //1 - alocado espaço na memoria para o obj que será criado
     // 2 - cada atributo de classe é criado e inicializado com seus valores default ou valores explicitos
     // 3 - Bloco de inicialização é executado

@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.dominio;
+package javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.dominio;
 
 public class Funcionario {
     private String nome;

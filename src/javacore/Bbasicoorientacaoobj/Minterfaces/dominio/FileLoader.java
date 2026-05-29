@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
+package javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
 
 public class FileLoader implements DataLoader, DataRemover {
 

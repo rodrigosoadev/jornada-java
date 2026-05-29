@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
+package javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
 //como o dataloadoer é uma interface, então é implementação, não extensão
 
 // Do mais restritivo até o mais liberal: private -> default -> protected -> public

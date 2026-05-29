@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio;
+package javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio;
 
 public class Carro {
     // velocidade limite deve ser 240km/h

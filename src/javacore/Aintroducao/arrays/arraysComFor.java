@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.arrays;
+package javacore.Aintroducao.arrays;
 
 import java.util.Scanner;
 

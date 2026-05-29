@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Hio.test;
+package javacore.Cintermediario.Hio.test;
 
 import java.io.BufferedWriter;
 import java.io.File;

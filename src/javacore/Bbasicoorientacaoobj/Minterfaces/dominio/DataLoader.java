@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
+package javacore.Bbasicoorientacaoobj.Minterfaces.dominio;
 // default é um método com implementação dentro da interface (é opcional
     // sobrescrever ele na classe que implementa a interface)
 public interface DataLoader {

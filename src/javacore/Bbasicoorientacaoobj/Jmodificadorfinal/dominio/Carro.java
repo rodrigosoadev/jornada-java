@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Jmodificadorfinal.dominio;
+package javacore.Bbasicoorientacaoobj.Jmodificadorfinal.dominio;
 
 public class Carro {
     private static final double VELOCIDADE_FINAL = 250;

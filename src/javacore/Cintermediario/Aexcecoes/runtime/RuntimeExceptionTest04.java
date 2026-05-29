@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.runtime;
+package javacore.Cintermediario.Aexcecoes.runtime;
 //excessões mais genericas tem que ficar no final
 
 import java.io.FileNotFoundException;

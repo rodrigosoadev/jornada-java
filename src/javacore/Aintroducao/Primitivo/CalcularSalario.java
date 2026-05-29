@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Primitivo;
+package javacore.Aintroducao.Primitivo;
 //Crie uma classe que calcule uma determinada porcentagem de um salario.
 // Criar uma classe
 //Aceitar um valor de entrada para o salario

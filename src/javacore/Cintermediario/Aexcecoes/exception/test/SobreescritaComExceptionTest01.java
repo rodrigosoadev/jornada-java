@@ -1,10 +1,10 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.test;
+package javacore.Cintermediario.Aexcecoes.exception.test;
 
 import java.io.FileNotFoundException;
 
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.Funcionario;
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.LoginInvalidoException;
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.Pessoa;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.Funcionario;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.LoginInvalidoException;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.Pessoa;
 
 public class SobreescritaComExceptionTest01 {
     public static void main(String[] args) {

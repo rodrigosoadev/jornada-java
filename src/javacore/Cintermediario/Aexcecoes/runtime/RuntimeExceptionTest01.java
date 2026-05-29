@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.runtime;
+package javacore.Cintermediario.Aexcecoes.runtime;
 
 public class RuntimeExceptionTest01 {
 public static void main(String[] args) {

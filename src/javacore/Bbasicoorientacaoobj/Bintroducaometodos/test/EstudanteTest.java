@@ -1,8 +1,8 @@
-package src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
+package javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
 
 import java.util.Scanner;
 
-import src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Estudante;
+import javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

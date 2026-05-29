@@ -1,8 +1,8 @@
-package src.javacore.Bbasicoorientacaoobj.Minterfaces.test;
+package javacore.Bbasicoorientacaoobj.Minterfaces.test;
 
-import src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio.DataLoader;
-import src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio.DatabaseLoader;
-import src.javacore.Bbasicoorientacaoobj.Minterfaces.dominio.FileLoader;
+import javacore.Bbasicoorientacaoobj.Minterfaces.dominio.DataLoader;
+import javacore.Bbasicoorientacaoobj.Minterfaces.dominio.DatabaseLoader;
+import javacore.Bbasicoorientacaoobj.Minterfaces.dominio.FileLoader;
 
 public class DataLoaderTest01 {
     public static void main(String[] args) {

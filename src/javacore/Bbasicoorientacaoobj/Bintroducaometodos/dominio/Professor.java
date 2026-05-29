@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio;
+package javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio;
         
 public class Professor {
     public String nome;

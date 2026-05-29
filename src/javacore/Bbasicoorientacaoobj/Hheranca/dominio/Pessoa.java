@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Hheranca.dominio;
+package javacore.Bbasicoorientacaoobj.Hheranca.dominio;
 
-import src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Professor;
+import javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Professor;
 
 public class Pessoa extends Object {
     // com protected consigo acessar o obj que estão na mesma pasta ou fora do

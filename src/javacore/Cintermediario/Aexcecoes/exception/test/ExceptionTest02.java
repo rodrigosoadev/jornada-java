@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.test;
+package javacore.Cintermediario.Aexcecoes.exception.test;
 
 import java.io.File;
 import java.io.IOException;

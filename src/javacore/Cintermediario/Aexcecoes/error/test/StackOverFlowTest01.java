@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.error.test;
+package javacore.Cintermediario.Aexcecoes.error.test;
 
 public class StackOverFlowTest01 {
     public static void main(String[] args) {

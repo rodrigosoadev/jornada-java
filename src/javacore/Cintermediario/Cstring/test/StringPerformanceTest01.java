@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Cstring.test;
+package javacore.Cintermediario.Cstring.test;
 
 public class StringPerformanceTest01 {
     public static void main(String[] args) {

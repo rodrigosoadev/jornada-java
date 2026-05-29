@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Bwrappers.test;
+package javacore.Cintermediario.Bwrappers.test;
 
 public class WrapperTest01 {
     public static void main(String[] args) {

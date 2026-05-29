@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Fresourcebundle.test;
+package javacore.Cintermediario.Fresourcebundle.test;
 
 import java.util.Locale;
 import java.util.ResourceBundle;

@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.servico;
+package javacore.Bbasicoorientacaoobj.Opolimorfismo.servico;
 
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.repositorio.Repositorio;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.repositorio.Repositorio;
 
 public class RepositorioMemoria implements Repositorio{
     @Override

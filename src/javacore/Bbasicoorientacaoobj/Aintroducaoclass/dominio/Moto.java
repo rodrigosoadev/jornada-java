@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio;
+package javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio;
 
 public class Moto {
     public String modelo;

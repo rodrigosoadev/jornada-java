@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.test;
+package javacore.Bbasicoorientacaoobj.Fmodificadorestatico.test;
 
-import src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio.Cliente;
+import javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio.Cliente;
 
 public class ClienteTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Kenumeracao.dominio;
+package javacore.Bbasicoorientacaoobj.Kenumeracao.dominio;
 
 public enum TipoCliente {
     // constant specific class body

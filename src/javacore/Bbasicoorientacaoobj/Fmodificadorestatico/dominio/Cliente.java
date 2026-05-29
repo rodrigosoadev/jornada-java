@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio;
+package javacore.Bbasicoorientacaoobj.Fmodificadorestatico.dominio;
     // 0 - bloco de inicialização é executado quando a jvm carregar a classe (é executado apenas uma vez)
     //1 - alocado espaço na memoria para o obj que será criado
     // 2 - cada atributo de classe é criado e inicializado com seus valores default ou valores explicitos

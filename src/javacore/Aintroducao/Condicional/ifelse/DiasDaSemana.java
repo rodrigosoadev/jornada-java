@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.ifelse;
+package javacore.Aintroducao.Condicional.ifelse;
 //receba um número inteiro do usuário e imprima o dia da semana correspondente
 //sendo 1 segunda
 

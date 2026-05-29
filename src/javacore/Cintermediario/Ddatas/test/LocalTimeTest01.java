@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Ddatas.test;
+package javacore.Cintermediario.Ddatas.test;
 
 import java.time.LocalTime;
 import java.time.temporal.ChronoField;

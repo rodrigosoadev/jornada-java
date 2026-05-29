@@ -1,8 +1,8 @@
-package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.test;
+package javacore.Bbasicoorientacaoobj.Opolimorfismo.test;
 
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Computador;
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Produto;
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Tomate;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Computador;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Produto;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Tomate;
 
 public class ProdutoTest02 {
     public static void main(String[] args) {

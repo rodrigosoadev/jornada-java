@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Jmodificadorfinal.dominio;
+package javacore.Bbasicoorientacaoobj.Jmodificadorfinal.dominio;
 
 public class Comprador {
     private String nome;

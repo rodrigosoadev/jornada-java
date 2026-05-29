@@ -1,9 +1,9 @@
-package src.javacore.Bbasicoorientacaoobj.Gassociacao.test;
+package javacore.Bbasicoorientacaoobj.Gassociacao.test;
 
-import src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Aluno;
-import src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Local;
-import src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Professor;
-import src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Seminario;
+import javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Aluno;
+import javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Local;
+import javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Professor;
+import javacore.Bbasicoorientacaoobj.Gassociacao.dominio.Seminario;
 
 public class Associacao {
     public static void main(String[] args) {

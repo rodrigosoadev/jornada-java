@@ -1,7 +1,7 @@
-package src.javacore.Bbasicoorientacaoobj.Lclasseabstratas.test;
+package javacore.Bbasicoorientacaoobj.Lclasseabstratas.test;
 
-import src.javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio.Gerente;
-import src.javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio.Vendedor;
+import javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio.Gerente;
+import javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio.Vendedor;
 
 public class FuncionarioTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.dominio;
+package javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.dominio;
 
 public class Estudante {
     private String matricula;

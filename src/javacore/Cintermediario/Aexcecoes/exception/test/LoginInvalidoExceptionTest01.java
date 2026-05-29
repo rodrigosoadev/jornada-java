@@ -1,8 +1,8 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.test;
+package javacore.Cintermediario.Aexcecoes.exception.test;
 
 import java.util.Scanner;
 
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.LoginInvalidoException;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.LoginInvalidoException;
 
 public class LoginInvalidoExceptionTest01 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio;
+package javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio;
 
 public class Televisao extends Produto {
     public static final double IMPOSTO_POR_CENTO = 0.21;

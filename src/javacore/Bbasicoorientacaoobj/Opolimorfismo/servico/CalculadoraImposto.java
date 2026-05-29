@@ -1,8 +1,8 @@
-package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.servico;
+package javacore.Bbasicoorientacaoobj.Opolimorfismo.servico;
 
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Computador;
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Produto;
-import src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Tomate;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Computador;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Produto;
+import javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio.Tomate;
 
 public class CalculadoraImposto {
     public static void caulcularImposto(Produto produto) {

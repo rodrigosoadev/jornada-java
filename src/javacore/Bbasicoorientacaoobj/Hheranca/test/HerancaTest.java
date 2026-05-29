@@ -1,8 +1,8 @@
-package src.javacore.Bbasicoorientacaoobj.Hheranca.test;
+package javacore.Bbasicoorientacaoobj.Hheranca.test;
 
-import src.javacore.Bbasicoorientacaoobj.Hheranca.dominio.Endereco;
-import src.javacore.Bbasicoorientacaoobj.Hheranca.dominio.Funcionario;
-import src.javacore.Bbasicoorientacaoobj.Hheranca.dominio.Pessoa;
+import javacore.Bbasicoorientacaoobj.Hheranca.dominio.Endereco;
+import javacore.Bbasicoorientacaoobj.Hheranca.dominio.Funcionario;
+import javacore.Bbasicoorientacaoobj.Hheranca.dominio.Pessoa;
 
 public class HerancaTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.lacos.fors;
+package javacore.Aintroducao.lacos.fors;
 
 public class tabuadaAuto {
     public static void main(String[] args) {

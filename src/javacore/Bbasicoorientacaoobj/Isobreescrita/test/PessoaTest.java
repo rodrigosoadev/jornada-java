@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Isobreescrita.test;
+package javacore.Bbasicoorientacaoobj.Isobreescrita.test;
 
-import src.javacore.Bbasicoorientacaoobj.Isobreescrita.dominio.Pessoa;
+import javacore.Bbasicoorientacaoobj.Isobreescrita.dominio.Pessoa;
 
 public class PessoaTest {
     public static void main(String[] args) {

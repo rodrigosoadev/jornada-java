@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.lacos.whiles;
+package javacore.Aintroducao.lacos.whiles;
 
 public class Introducao {
     public static void main(String[] args) {

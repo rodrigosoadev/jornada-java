@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.test;
+package javacore.Cintermediario.Aexcecoes.exception.test;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -6,8 +6,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Reader;
 
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.Leitor1;
-import src.javacore.Cintermediario.Aexcecoes.exception.dominio.Leitor2;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.Leitor1;
+import javacore.Cintermediario.Aexcecoes.exception.dominio.Leitor2;
 
 public class TryWithResourcesTest01 {
     public static void main(String[] args) {

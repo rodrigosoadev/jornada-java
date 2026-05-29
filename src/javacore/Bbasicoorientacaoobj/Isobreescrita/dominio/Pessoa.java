@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Isobreescrita.dominio;
+package javacore.Bbasicoorientacaoobj.Isobreescrita.dominio;
 
 public class Pessoa {
     private String nome;

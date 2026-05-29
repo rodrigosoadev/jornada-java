@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Aintroducaoclass.test;
+package javacore.Bbasicoorientacaoobj.Aintroducaoclass.test;
 
-import src.javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio.estudante;
+import javacore.Bbasicoorientacaoobj.Aintroducaoclass.dominio.estudante;
 
 public class estudanteTest {
     public static void main(String[] args) {

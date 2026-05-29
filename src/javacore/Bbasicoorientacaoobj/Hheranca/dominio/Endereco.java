@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Hheranca.dominio;
+package javacore.Bbasicoorientacaoobj.Hheranca.dominio;
 
 public class Endereco {
     private String rua;

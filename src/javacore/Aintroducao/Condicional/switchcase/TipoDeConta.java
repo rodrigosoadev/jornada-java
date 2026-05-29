@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.switchcase;
+package javacore.Aintroducao.Condicional.switchcase;
 
 import java.util.Scanner;
 

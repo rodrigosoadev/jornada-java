@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.dominio;
+package javacore.Cintermediario.Aexcecoes.exception.dominio;
 
 public class LoginInvalidoException extends Exception {
     public LoginInvalidoException() {

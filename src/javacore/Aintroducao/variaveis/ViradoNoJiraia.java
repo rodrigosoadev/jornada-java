@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.variaveis;
+package javacore.Aintroducao.variaveis;
 public class ViradoNoJiraia {
     public static void main(String[] args) {
         // dados do funcionário

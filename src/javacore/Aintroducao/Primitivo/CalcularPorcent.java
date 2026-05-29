@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Primitivo;
+package javacore.Aintroducao.Primitivo;
 public class CalcularPorcent {
     public static void main(String[] args) {
         float salario = 2500.000f;

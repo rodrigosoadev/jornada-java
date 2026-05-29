@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
+package javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
 
-import src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Calculadora;
+import javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Calculadora;
 
 public class ParametrosTest {
     public static void main(String[] args) {

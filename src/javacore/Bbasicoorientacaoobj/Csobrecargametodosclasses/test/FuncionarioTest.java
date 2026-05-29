@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.test;
+package javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.test;
 
-import src.javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.dominio.Funcionario;
+import javacore.Bbasicoorientacaoobj.Csobrecargametodosclasses.dominio.Funcionario;
 
 public class FuncionarioTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.switchcase;
+package javacore.Aintroducao.Condicional.switchcase;
 
 public class DiasDaSemana2 {
     public static void main(String[] args) {

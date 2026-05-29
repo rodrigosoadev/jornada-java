@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.ifelse;
+package javacore.Aintroducao.Condicional.ifelse;
 public class ImpaPar {
     public static void main(String[] args) {
         int numero = 2;

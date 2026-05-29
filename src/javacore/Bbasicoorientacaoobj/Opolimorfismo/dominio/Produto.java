@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio;
+package javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio;
 
 public abstract class Produto implements Taxavel {
     protected String nome;

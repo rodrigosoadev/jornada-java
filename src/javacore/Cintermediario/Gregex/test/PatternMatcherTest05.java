@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Gregex.test;
+package javacore.Cintermediario.Gregex.test;
 
 import java.util.Arrays;
 import java.util.regex.Matcher;

@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Primitivo;
+package javacore.Aintroducao.Primitivo;
 public class CalculadorDiferencaIdade {
     public static void main(String[] arg) {
         int idadeRodrigo = 24;

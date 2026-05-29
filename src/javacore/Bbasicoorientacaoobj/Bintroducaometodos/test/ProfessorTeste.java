@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
+package javacore.Bbasicoorientacaoobj.Bintroducaometodos.test;
 
-import src.javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Professor;
+import javacore.Bbasicoorientacaoobj.Bintroducaometodos.dominio.Professor;
 
 public class ProfessorTeste {
     public static void main(String[] args) {

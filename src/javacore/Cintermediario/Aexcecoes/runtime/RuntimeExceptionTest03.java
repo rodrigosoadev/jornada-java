@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.runtime;
+package javacore.Cintermediario.Aexcecoes.runtime;
 
 //finally sempre vai ser executado. Muito usado para quando  precisa trabalhar com recursos sendo liberado por outras aplicações, que precisam ser fechadas após seu uso
 public class RuntimeExceptionTest03 {

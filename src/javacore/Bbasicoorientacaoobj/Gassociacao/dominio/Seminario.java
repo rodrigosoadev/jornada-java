@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio;
+package javacore.Bbasicoorientacaoobj.Gassociacao.dominio;
 
 public class Seminario {
     private Aluno[] alunos;

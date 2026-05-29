@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.ifelse;
+package javacore.Aintroducao.Condicional.ifelse;
 
 import java.util.Scanner;
 

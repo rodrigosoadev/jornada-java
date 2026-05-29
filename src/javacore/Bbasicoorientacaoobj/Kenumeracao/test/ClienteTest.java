@@ -1,7 +1,7 @@
-package src.javacore.Bbasicoorientacaoobj.Kenumeracao.test;
+package javacore.Bbasicoorientacaoobj.Kenumeracao.test;
 
-import src.javacore.Bbasicoorientacaoobj.Kenumeracao.dominio.Cliente;
-import src.javacore.Bbasicoorientacaoobj.Kenumeracao.dominio.TipoCliente;
+import javacore.Bbasicoorientacaoobj.Kenumeracao.dominio.Cliente;
+import javacore.Bbasicoorientacaoobj.Kenumeracao.dominio.TipoCliente;
 
 public class ClienteTest {
     public static void main(String[] args) {

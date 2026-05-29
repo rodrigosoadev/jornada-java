@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Gregex.test;
+package javacore.Cintermediario.Gregex.test;
 
 public class ScannerTest01 {
     public static void main(String[] args) {

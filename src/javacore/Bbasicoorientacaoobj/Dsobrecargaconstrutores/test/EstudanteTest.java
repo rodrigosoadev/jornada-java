@@ -1,6 +1,6 @@
-package src.javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.test;
+package javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.test;
 
-import src.javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.dominio.Estudante;
+import javacore.Bbasicoorientacaoobj.Dsobrecargaconstrutores.dominio.Estudante;
 
 public class EstudanteTest {
     public static void main(String[] args) {

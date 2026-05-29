@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Ddatas.test;
+package javacore.Cintermediario.Ddatas.test;
 
 import java.util.Calendar;
 import java.util.Date;

@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio;
+package javacore.Bbasicoorientacaoobj.Lclasseabstratas.dominio;
 
 public abstract class Pessoa {
      protected String nome;

@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.exception.dominio;
+package javacore.Cintermediario.Aexcecoes.exception.dominio;
 
 import java.io.FileNotFoundException;
 

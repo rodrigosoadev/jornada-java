@@ -1,4 +1,4 @@
-package src.javacore.Cintermediario.Aexcecoes.runtime;
+package javacore.Cintermediario.Aexcecoes.runtime;
 
 //sempre usar as exceções mais especificas possíveis, como por exemplo  IllegalStateException
 //Independente do que for, implemente o tratamento da exceção!!!

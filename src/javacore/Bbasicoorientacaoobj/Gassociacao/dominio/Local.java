@@ -1,4 +1,4 @@
-package src.javacore.Bbasicoorientacaoobj.Gassociacao.dominio;
+package javacore.Bbasicoorientacaoobj.Gassociacao.dominio;
 
 public class Local {
     private Seminario seminario;

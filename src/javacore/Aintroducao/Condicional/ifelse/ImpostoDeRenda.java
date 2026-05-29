@@ -1,4 +1,4 @@
-package src.javacore.Aintroducao.Condicional.ifelse;
+package javacore.Aintroducao.Condicional.ifelse;
 public class ImpostoDeRenda {
     public static void main(String[] args) {
         double salario = 3000D;
