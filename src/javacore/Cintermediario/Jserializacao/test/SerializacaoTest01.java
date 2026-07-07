@@ -9,11 +9,14 @@ import java.nio.file.Paths;
 
 
 import javacore.Cintermediario.Jserializacao.dominio.Aluno;
+import javacore.Cintermediario.Jserializacao.dominio.Turma;
 
 public class SerializacaoTest01 {
     public static void main(String[] args) {
         Aluno aluno = new Aluno(1L, "Rodrigo", "123456");
-        //serializar(aluno);
+        Turma turma = new Turma("Maratona Java");
+        aluno.setNome(null);
+        serializar(aluno);
         deserializar();
     }
 
