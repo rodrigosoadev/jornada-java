@@ -1,6 +1,7 @@
 package javacore.Cintermediario.Kcolecoes.test;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import javacore.Cintermediario.Kcolecoes.dominio.Smartphone;
 
