@@ -47,15 +47,16 @@ public class Manga implements Comparable<Manga> {
     }
 
 
+    
+
+
+    
     @Override
     public int hashCode() {
         final int prime = 31;
         int result = 1;
         result = prime * result + ((id == null) ? 0 : id.hashCode());
         result = prime * result + ((nome == null) ? 0 : nome.hashCode());
-        long temp;
-        temp = Double.doubleToLongBits(preco);
-        result = prime * result + (int) (temp ^ (temp >>> 32));
         return result;
     }
 
@@ -79,13 +80,10 @@ public class Manga implements Comparable<Manga> {
                 return false;
         } else if (!nome.equals(other.nome))
             return false;
-        if (Double.doubleToLongBits(preco) != Double.doubleToLongBits(other.preco))
-            return false;
         return true;
     }
 
 
-    
     @Override
     public String toString() {
         return "Manga [id=" + id + ", nome=" + nome + ", preco=" + preco + ", quantidade=" + quantidade + "]";
