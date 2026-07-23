@@ -13,7 +13,7 @@ public class GenericsTest01 {
         for (String o : lista) {
             System.out.println(o);
         }
-        add(lista, new Consumidor("Midoriya"))
+        add(lista, new Consumidor("Midoriya"));
     }
 
     private static void add (List lista, Consumidor consumidor){
