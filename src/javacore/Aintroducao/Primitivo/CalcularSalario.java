@@ -12,3 +12,4 @@ public class CalcularSalario {
         System.out.println ("O valor da porcentagem de " + porcentagem + "% do salário de R$" + salario + " é R$" + valorPorcentagem);
     }
 }
+// Este arquivo demonstra cálculo de porcentagem de um salário usando operações aritméticas.

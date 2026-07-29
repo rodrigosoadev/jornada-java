@@ -5,5 +5,6 @@ public class Urso extends Animal {
             String caracteristica) {
         super(nome, comprimento, numPatas, cor, ambiente, velocidade, caracteristica);
 
-    }
+}
+// Este arquivo define a classe Urso, subclasse concreta de Animal sem modificações.
 }

@@ -9,3 +9,4 @@ public class ScannerTest01 {
         }
     }
 }
+// Este arquivo demonstra o uso de split() e trim() para separar strings.

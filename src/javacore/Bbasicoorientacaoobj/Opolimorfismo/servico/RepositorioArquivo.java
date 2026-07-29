@@ -11,3 +11,4 @@ public class RepositorioArquivo  implements Repositorio{
     }
     
 }
+// Este arquivo demonstra polimorfismo com interface Repositorio salvando em arquivo.

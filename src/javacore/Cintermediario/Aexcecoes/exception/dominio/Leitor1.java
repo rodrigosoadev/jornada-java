@@ -9,6 +9,7 @@ public class Leitor1 implements Closeable{
     public void close() throws IOException {
         System.out.println("Fechando leitor 1");
         
-    }
+}
+// Este arquivo demonstra um recurso que implementa Closeable para ser usado com try-with-resources.
     
 }

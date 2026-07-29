@@ -42,3 +42,4 @@ public class Carro {
     
 
 }
+// Este arquivo demonstra uso de final em atributos, método e referência de objeto.

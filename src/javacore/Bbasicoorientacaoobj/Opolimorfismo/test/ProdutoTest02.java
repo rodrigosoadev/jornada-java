@@ -19,3 +19,4 @@ public class ProdutoTest02 {
     }
        
 }
+// Este arquivo demonstra polimorfismo com referência de superclasse para objetos concretos.

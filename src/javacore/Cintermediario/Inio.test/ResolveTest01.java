@@ -20,3 +20,4 @@ public class ResolveTest01 {
         System.out.println("6 "+file.resolve(relativo));
     }
 }
+// Este arquivo demonstra o método resolve() para combinar caminhos relativos e absolutos.

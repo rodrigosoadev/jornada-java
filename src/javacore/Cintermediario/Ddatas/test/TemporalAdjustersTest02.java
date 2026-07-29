@@ -43,3 +43,4 @@ public class TemporalAdjustersTest02 {
         System.out.println(now.getDayOfWeek());
     }
 }
+// Este arquivo demonstra como criar um TemporalAdjuster customizado para obter o próximo dia útil.

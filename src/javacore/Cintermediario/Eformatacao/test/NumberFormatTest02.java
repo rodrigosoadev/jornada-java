@@ -30,3 +30,4 @@ public class NumberFormatTest02 {
 
     }
 }
+// Este arquivo demonstra NumberFormat.getCurrencyInstance para formatar valores monetários por localidade.

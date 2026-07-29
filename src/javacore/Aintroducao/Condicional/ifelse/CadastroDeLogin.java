@@ -15,3 +15,4 @@ public class CadastroDeLogin {
         }
     }
 }
+// Este arquivo demonstra validação de login com equalsIgnoreCase para bloquear nomes de administrador.

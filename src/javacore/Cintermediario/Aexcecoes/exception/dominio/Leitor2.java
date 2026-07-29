@@ -8,5 +8,6 @@ public class Leitor2 implements Closeable {
     public void close() throws IOException {
         System.out.println("Fechando leitor 2");
 
-    }
+}
+// Este arquivo demonstra outro recurso Closeable usado no try-with-resources para fechamento automático.
 }

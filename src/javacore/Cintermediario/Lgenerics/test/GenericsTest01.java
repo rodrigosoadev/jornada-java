@@ -20,3 +20,4 @@ public class GenericsTest01 {
         lista.add(consumidor);
     }
 }
+// Este arquivo demonstra introdução a Generics com type safety e raw type warning.

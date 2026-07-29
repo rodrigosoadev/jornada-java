@@ -23,3 +23,4 @@ public class BinarySearchTest01 {
 
     }
 }
+// Este arquivo demonstra busca binária com Collections.binarySearch() em lista de inteiros.

@@ -7,3 +7,4 @@ public class tabuada {
         }
     }
 }
+// Este arquivo demonstra laço for simples para exibir a tabuada do número 2.

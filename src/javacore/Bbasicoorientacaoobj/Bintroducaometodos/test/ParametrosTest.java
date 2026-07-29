@@ -14,3 +14,4 @@ public class ParametrosTest {
         System.out.println("num2: "+b);
     }
 }
+// Este arquivo demonstra passagem de parâmetros por valor (cópia) em métodos.

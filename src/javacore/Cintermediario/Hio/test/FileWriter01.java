@@ -22,3 +22,4 @@ public class FileWriter01 {
 
     }
 }
+// Este arquivo demonstra FileWriter para escrever dados em arquivos de texto.

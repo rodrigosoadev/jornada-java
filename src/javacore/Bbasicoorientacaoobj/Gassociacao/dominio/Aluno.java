@@ -53,3 +53,4 @@ public class Aluno {
     
 
 }
+// Este arquivo demonstra associação unidirecional entre Aluno e Seminario.

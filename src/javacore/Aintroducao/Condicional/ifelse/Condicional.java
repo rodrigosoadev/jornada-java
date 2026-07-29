@@ -21,3 +21,4 @@ public class Condicional {
         // && Operador lógico E
         // || Operador lógico OU
         // !  Operador lógico NÃO
+// Este arquivo demonstra if-else básico para verificar maioridade e lista operadores relacionais e lógicos.

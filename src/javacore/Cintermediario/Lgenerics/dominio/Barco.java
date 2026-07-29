@@ -20,3 +20,4 @@ public class Barco {
 
     
 }
+// Este arquivo demonstra classe de domínio Barco com nome para exemplos de generics.

@@ -8,3 +8,4 @@ public class CalculadorDiferencaIdade {
         System.out.println("Diferença de idade: " + diferenciaIdade);
     }
 }
+// Este arquivo demonstra subtração de inteiros para calcular diferença de idade entre pessoas.

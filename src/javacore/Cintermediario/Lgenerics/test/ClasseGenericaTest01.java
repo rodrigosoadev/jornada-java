@@ -11,3 +11,4 @@ public class ClasseGenericaTest01 {
         carroRentavelService.retornarCarroAlugado(carro);
     }
 }
+// Este arquivo demonstra uso de CarroRentavelService sem generics.

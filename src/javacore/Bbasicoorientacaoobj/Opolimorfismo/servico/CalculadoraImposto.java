@@ -17,3 +17,4 @@ public class CalculadoraImposto {
 
     }
 }
+// Este arquivo demonstra polimorfismo usando parâmetro do tipo Produto com instanceof.

@@ -26,3 +26,4 @@ public class WildCardTest02 {
         animals.add(new Gato());
     }
 }
+// Este arquivo demonstra wildcards (? extends e ? super) em métodos genéricos com List.

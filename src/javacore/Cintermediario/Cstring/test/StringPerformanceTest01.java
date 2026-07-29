@@ -39,3 +39,4 @@ public class StringPerformanceTest01 {
         }
     }
 }
+// Este arquivo compara performance de concatenação entre String, StringBuilder e StringBuffer.

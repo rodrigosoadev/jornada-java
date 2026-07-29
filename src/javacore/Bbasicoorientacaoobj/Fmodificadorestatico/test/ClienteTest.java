@@ -17,5 +17,5 @@ public class ClienteTest {
         System.out.println("tamanha: "+ Cliente.getParcelas().length);
 
 }}
-
+// Este arquivo demonstra acesso a método estático sem instanciar a classe Cliente.
 

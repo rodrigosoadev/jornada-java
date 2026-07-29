@@ -12,6 +12,7 @@ public class Condicional2 {
         }else {
             resultado = salario * 0.1f;
             System.out.println("A porcentagem é 10% e o resultado é "+resultado);
+        }
     }
 }
-}
+// Este arquivo demonstra if-else para calcular porcentagem do salário conforme faixa salarial.

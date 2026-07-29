@@ -16,3 +16,4 @@ public class ImpostoDeRenda {
 
     }
 }
+// Este arquivo demonstra if-else com múltiplas faixas de imposto de renda baseadas no salário.

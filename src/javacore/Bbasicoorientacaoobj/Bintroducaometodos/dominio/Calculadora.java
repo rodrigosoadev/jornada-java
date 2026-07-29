@@ -56,3 +56,4 @@ public class Calculadora {
         System.out.println(soma);
     }
 }
+// Este arquivo demonstra métodos com parâmetros, retorno, array e varargs.

@@ -33,7 +33,8 @@ public class TryWithResourcesTest01 {
             try {
                 if (reader != null) {
                     reader.close();
-                }
+}
+// Este arquivo demonstra o try-with-resources para fechar automaticamente recursos que implementam Closeable.
             } catch (IOException e) {
                 e.printStackTrace();
             }

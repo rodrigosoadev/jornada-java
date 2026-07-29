@@ -36,3 +36,4 @@ public class DiasDaSemana2 {
         }
     }
 
+// Este arquivo demonstra switch-case para exibir o dia da semana a partir de um número inteiro.

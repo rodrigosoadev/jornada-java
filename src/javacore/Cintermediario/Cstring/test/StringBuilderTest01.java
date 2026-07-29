@@ -15,3 +15,4 @@ public class StringBuilderTest01 {
         System.out.println(sb);
     }
 }
+// Este arquivo demonstra métodos do StringBuilder como append, reverse e delete.

@@ -18,3 +18,4 @@ public class LocalDateTimeTest01 {
         System.out.println(ldt2);
     }
 }
+// Este arquivo demonstra LocalDateTime combinando data e hora com LocalDate e LocalTime.

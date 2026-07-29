@@ -23,3 +23,4 @@ public class RelativizeTest01 {
         
     }
 }
+// Este arquivo demonstra o método relativize() para criar caminhos relativos entre dois paths.

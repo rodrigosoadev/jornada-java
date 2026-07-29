@@ -25,3 +25,4 @@ public class QueueTest02 {
 
     }
 }
+// Este arquivo demonstra PriorityQueue com Comparator para ordenar Mangas por preço.

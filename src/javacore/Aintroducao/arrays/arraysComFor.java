@@ -21,3 +21,4 @@ public class arraysComFor {
         System.out.println("A soma das notas: " +media);
     }
 }
+// Este arquivo demonstra preenchimento de array com notas e cálculo da média usando for.

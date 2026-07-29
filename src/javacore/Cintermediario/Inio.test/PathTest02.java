@@ -23,8 +23,9 @@ public class PathTest02 {
         Path target = Paths.get(filePath.getParent().toString(), "file_renamed.txt");
         Files.copy(source, target, StandardCopyOption.REPLACE_EXISTING);
 
-       
-
         
+       
+         
     }
 }
+// Este arquivo demonstra Files.createDirectories, createFile e copy do NIO.

@@ -15,3 +15,4 @@ public class CalcularPorcent {
         System.out.println ("O valor da porcentagem de " + ultimaPorcentagem + "% do salário de R$" + salario + " é R$" + ultimoValorPorcentagem);
 }
 }
+// Este arquivo demonstra múltiplos cálculos de porcentagem com diferentes taxas sobre um salário.

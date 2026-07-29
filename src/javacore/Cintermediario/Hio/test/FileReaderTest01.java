@@ -26,3 +26,4 @@ public class FileReaderTest01 {
         }
     }
 }
+// Este arquivo demonstra FileReader para ler caracteres de arquivos de texto.

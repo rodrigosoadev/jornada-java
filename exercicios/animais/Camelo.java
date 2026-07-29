@@ -6,7 +6,8 @@ public class Camelo extends Animal {
             String caracteristica) {
         super(nome, comprimento, numPatas, cor, ambiente, velocidade, caracteristica);
         
-    }
+}
+// Este arquivo define a classe Camelo, subclasse concreta de Animal sem modificações.
 
     
 }

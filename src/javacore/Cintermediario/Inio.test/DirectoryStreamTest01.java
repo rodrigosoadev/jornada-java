@@ -17,3 +17,4 @@ public class DirectoryStreamTest01 {
         }
     }
 }
+// Este arquivo demonstra DirectoryStream para iterar sobre arquivos de um diretório.

@@ -25,3 +25,4 @@ public class NavigableMapTest01 {
         System.out.println(map.ceilingKey("C"));
     }
 }
+// Este arquivo demonstra NavigableMap com TreeMap e métodos headMap(), ceilingKey().

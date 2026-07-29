@@ -27,3 +27,4 @@ public class RuntimeExceptionTest04 {
     }
 
 }
+// Este arquivo demonstra multi-catch e a hierarquia de exceções com captura de exceções mais específicas primeiro.

@@ -16,3 +16,4 @@ public class arrayMultidim3 {
         }
     }
 }
+// Este arquivo demonstra array multidimensional com inicialização inline e for-each aninhado.

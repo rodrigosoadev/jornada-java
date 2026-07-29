@@ -23,3 +23,4 @@ public class TorneioDeNatacao {
         }
     }
 }
+// Este arquivo demonstra if-else encadeado para classificar nadadores por faixa etária.

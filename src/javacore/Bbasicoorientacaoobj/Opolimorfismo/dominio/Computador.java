@@ -16,5 +16,6 @@ public class Computador extends Produto {
     public static double getImpostoPorCento() {
         return IMPOSTO_POR_CENTO;
     }
-
+    
 }
+// Este arquivo demonstra polimorfismo com cálculo de imposto específico para Computador.

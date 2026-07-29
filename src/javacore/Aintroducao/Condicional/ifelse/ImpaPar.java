@@ -10,3 +10,4 @@ public class ImpaPar {
         }
     }
 }
+// Este arquivo demonstra if-else para verificar se um número é par ou ímpar usando o operador módulo.

@@ -25,3 +25,4 @@ public class PeriodTest01 {
         System.out.println(now.until(now.plusDays(p3.getDays()), ChronoUnit.DAYS));
     }
 }
+// Este arquivo demonstra Period para medir intervalos baseados em dias, meses e anos.

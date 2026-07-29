@@ -17,3 +17,4 @@ public class whiles {
         }
     }
 }
+// Este arquivo demonstra laço while para exibir números ímpares até o valor digitado pelo usuário.

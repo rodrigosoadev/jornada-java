@@ -17,3 +17,4 @@ public class ResourceBundleTest01 {
         System.out.println(bundle1.getString("good.morning"));
     }
 }
+// Este arquivo demonstra ResourceBundle para internacionalização com mensagens em diferentes idiomas.

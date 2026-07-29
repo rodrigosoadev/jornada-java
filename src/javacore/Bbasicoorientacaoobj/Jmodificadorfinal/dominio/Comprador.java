@@ -16,6 +16,7 @@ public class Comprador {
     public void setNome(String nome) {
         this.nome = nome;
     }
-
     
+
 }
+// Este arquivo demonstra classe simples usada como composição com modificador final.

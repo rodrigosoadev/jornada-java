@@ -9,3 +9,4 @@ public class RecebendoDadosDoTeclado {
         System.out.println("Olá " + nome);
     }
 }
+// Este arquivo demonstra a leitura de dados do teclado usando a classe Scanner.

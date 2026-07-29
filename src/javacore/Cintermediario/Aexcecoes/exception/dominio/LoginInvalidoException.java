@@ -9,3 +9,4 @@ public class LoginInvalidoException extends Exception {
         super(message);
     }
 }
+// Este arquivo demonstra a criação de uma exceção customizada estendendo a classe Exception.

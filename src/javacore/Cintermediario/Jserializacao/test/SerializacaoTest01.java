@@ -39,3 +39,4 @@ public class SerializacaoTest01 {
         }
     }
 }
+// Este arquivo demonstra serialização e desserialização de objetos com ObjectOutputStream/ObjectInputStream.

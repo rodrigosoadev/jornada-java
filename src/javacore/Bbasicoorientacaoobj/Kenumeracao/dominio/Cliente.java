@@ -44,5 +44,6 @@ public class Cliente {
     public void setTipoPagamento(TipoPagamento tipoPagamento) {
         this.tipoPagamento = tipoPagamento;
     }
-
+    
 }
+// Este arquivo demonstra uso de enumeração TipoPagamento e composição com TipoCliente.

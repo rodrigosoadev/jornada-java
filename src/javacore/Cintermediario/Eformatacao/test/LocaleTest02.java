@@ -17,3 +17,4 @@ public class LocaleTest02 {
 
     }
 }
+// Este arquivo demonstra Locale para listar países e idiomas suportados pela JVM.

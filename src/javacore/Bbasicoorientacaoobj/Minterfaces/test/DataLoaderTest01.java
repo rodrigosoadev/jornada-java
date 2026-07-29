@@ -21,3 +21,4 @@ public class DataLoaderTest01 {
 
     }
 }
+// Este arquivo demonstra uso de interfaces com métodos default, static e sobrescritos.

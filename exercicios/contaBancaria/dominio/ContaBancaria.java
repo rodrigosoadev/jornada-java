@@ -53,7 +53,8 @@ public class ContaBancaria {
         if ((saldo-valor) >=0){
             saldo -= valor;
             return true;
-        }
+}
+// Este arquivo define a classe base ContaBancaria com métodos depositar e sacar.
         return false;
     }
 }

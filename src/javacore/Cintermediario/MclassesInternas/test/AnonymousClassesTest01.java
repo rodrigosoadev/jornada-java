@@ -13,7 +13,8 @@ public class AnonymousClassesTest01 {
             @Override
             public void walk() {
                 System.out.println("Walking in the shadows");
-            }
+}
+// Este arquivo demonstra classes anônimas para sobrescrever métodos de uma classe existente sem criar subclasse.
 
         };
         animal.walk();

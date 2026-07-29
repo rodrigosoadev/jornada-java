@@ -5,3 +5,4 @@ public class estudante {
     public String matricula;
     public int idade;
 }
+// Este arquivo demonstra criação de classe com atributos públicos (nome, matricula, idade).

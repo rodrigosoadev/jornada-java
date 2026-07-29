@@ -28,3 +28,4 @@ public class RentalService<T> {
         System.out.println(objetosDisponiveis);
     }
 }
+// Este arquivo demonstra classe genérica RentalService para alugar objetos de qualquer tipo.

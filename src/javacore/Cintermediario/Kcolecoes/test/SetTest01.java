@@ -20,3 +20,4 @@ public class SetTest01 {
         }
     }
 }
+// Este arquivo demonstra HashSet para armazenar elementos sem duplicatas.

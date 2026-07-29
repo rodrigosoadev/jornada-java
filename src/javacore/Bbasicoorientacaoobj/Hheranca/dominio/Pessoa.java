@@ -47,5 +47,6 @@ public class Pessoa extends Object {
     public void setEndereco(Endereco endereco) {
         this.endereco = endereco;
     }
-
+    
 }
+// Este arquivo demonstra classe base com atributos protected para ser usada em herança.

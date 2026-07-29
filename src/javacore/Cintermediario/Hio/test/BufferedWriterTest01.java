@@ -19,3 +19,4 @@ public class BufferedWriterTest01 {
 
     }
 }
+// Este arquivo demonstra BufferedWriter para escrita eficiente em arquivos.

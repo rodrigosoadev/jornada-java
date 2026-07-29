@@ -29,7 +29,8 @@ public class ContaEspecial extends ContaBancaria{
             this.setSaldo(this.getSaldo()-valor);
 
             return true;
-        }
+}
+// Este arquivo define ContaEspecial, subclasse de ContaBancaria com limite de saque.
 
         return false;
     }

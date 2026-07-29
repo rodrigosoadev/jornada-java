@@ -8,5 +8,5 @@ public class ClienteTest {
         
     }
 }
-
+// Este arquivo demonstra execução do bloco de inicialização ao instanciar um Cliente.
 

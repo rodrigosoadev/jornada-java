@@ -110,3 +110,4 @@ public class Aluno  implements Serializable{
     
     
 }
+// Este arquivo demonstra uma classe Serializable com writeObject e readObject customizados.

@@ -15,3 +15,4 @@ public class FuncionarioTest {
 
     }
 }
+// Este arquivo demonstra uso de construtores com diferentes parâmetros na classe Funcionario.

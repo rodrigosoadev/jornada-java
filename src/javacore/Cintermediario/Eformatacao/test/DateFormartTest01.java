@@ -20,3 +20,4 @@ public class DateFormartTest01 {
          }
     }
 }
+// Este arquivo demonstra DateFormat para formatar datas em estilos SHORT, MEDIUM, LONG e FULL.

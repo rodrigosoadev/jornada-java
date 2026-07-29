@@ -15,6 +15,7 @@ public class SobreescritaComExceptionTest01 {
             funcionario.salvar();
         } catch (LoginInvalidoException | FileNotFoundException e) {
             e.printStackTrace();
-        }
+}
+// Este arquivo demonstra as regras de exceções na sobrescrita de métodos entre classe pai e filha.
     }
 }

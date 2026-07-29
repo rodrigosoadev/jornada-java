@@ -30,3 +30,4 @@ public class DiasDaSemana {
             System.out.println("Dia inválido");
         }
 }}
+// Este arquivo demonstra if-else encadeado para exibir o dia da semana conforme o número digitado.

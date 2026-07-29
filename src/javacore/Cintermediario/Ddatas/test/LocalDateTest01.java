@@ -29,3 +29,4 @@ public class LocalDateTest01 {
 
     }
 }
+// Este arquivo demonstra LocalDate para trabalhar com datas sem horário (ano, mês, dia).

@@ -7,3 +7,4 @@ public class introducaoFors {
         }
     }
 }
+// Este arquivo demonstra a estrutura básica do laço for para repetição de 0 a 10.

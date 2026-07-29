@@ -9,7 +9,8 @@ public class OuterClassesTest01 {
             System.out.println(name);
             System.out.println(this);
             System.out.println(OuterClassesTest01.this);
-        }
+}
+// Este arquivo demonstra classes internas (inner classes) não estáticas aninhadas dentro de uma classe externa.
     }
 
     public static void main(String[] args) {

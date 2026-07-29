@@ -13,3 +13,4 @@ public class CarroTest {
         System.out.println(carro.modelo);
     }
 }
+// Este arquivo demonstra instanciação de objeto e acesso a atributos públicos de Carro.

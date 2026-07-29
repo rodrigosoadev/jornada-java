@@ -10,7 +10,8 @@ public class OuterClassesTest02 {
             public void printLocal() {
                 System.out.println(param);
                 System.out.println(name + "" + lastName);
-            }
+}
+// Este arquivo demonstra classes locais definidas dentro de métodos, com acesso a variáveis do escopo.
         }
         new LocalClass().printLocal();
 

@@ -33,3 +33,4 @@ public class Associacao {
         
     }
 }
+// Este arquivo demonstra associação de objetos em um sistema de seminários completo.

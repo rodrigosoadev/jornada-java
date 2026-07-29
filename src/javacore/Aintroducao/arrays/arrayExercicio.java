@@ -27,5 +27,5 @@ public class arrayExercicio {
         System.out.println(resultadoMultDiagonalPrincipal);
     }
 }
-
+// Este arquivo demonstra multiplicação dos elementos da diagonal principal de um array bidimensional.
  

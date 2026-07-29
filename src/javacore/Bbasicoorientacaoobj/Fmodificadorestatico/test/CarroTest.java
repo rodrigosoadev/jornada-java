@@ -20,3 +20,4 @@ public class CarroTest {
         carro3.imprime();
     }
 }
+// Este arquivo demonstra método estático alterando atributo compartilhado entre instâncias.

@@ -30,3 +30,4 @@ public class ClasseGenericaTest03 {
 
     }
 }
+// Este arquivo demonstra classe genérica RentalService aplicada a Carro e Barco.

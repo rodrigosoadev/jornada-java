@@ -24,3 +24,4 @@ public class BarcoRentavelService {
         System.out.println(barcosDisponiveis);
     }
 }
+// Este arquivo demonstra serviço de aluguel de barcos sem uso de generics.

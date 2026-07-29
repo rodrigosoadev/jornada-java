@@ -42,3 +42,4 @@ public class Alistamento {
 
     }/* */
 }}
+// Este arquivo demonstra condições compostas com operadores lógicos para alistamento militar.

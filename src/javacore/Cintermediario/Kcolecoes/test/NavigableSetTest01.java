@@ -64,3 +64,4 @@ public class NavigableSetTest01 {
         System.out.println(mangas.size());
     }
 }
+// Este arquivo demonstra NavigableSet com TreeSet e métodos lower, floor, higher, ceiling.

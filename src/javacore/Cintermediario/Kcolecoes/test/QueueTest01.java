@@ -16,3 +16,4 @@ public class QueueTest01 {
         }
     }
 }
+// Este arquivo demonstra PriorityQueue com ordenação natural de Strings.

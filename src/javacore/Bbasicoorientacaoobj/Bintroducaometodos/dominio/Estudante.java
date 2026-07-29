@@ -74,3 +74,4 @@ public class Estudante {
     }
     // fim modificadores 
 }
+// Este arquivo demonstra encapsulamento, validação de dados e cálculo de média.

@@ -17,3 +17,4 @@ public class LocalTimeTest01 {
         System.out.println(LocalTime.MAX);
     }
 }
+// Este arquivo demonstra LocalTime para trabalhar com horários sem data (hora, minuto, segundo).

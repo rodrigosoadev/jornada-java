@@ -13,3 +13,4 @@ public class Televisao extends Produto {
         return this.valor * IMPOSTO_POR_CENTO;
     }
 }
+// Este arquivo demonstra polimorfismo com cálculo de imposto específico para Televisao.

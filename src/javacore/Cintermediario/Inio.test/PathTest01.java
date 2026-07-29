@@ -13,3 +13,4 @@ public class PathTest01 {
        System.out.println(p4.getFileName());
     }
 }
+// Este arquivo demonstra o uso de Paths.get() para criar caminhos de arquivos.

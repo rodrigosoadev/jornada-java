@@ -29,7 +29,8 @@ public class ContaPoupanca extends ContaBancaria {
         if (diaRendimento == hoje.get(Calendar.DAY_OF_MONTH)){
             this.setSaldo(this.getSaldo() + (this.getSaldo() * taxaRendimento));
             return true;
-        }
+}
+// Este arquivo define ContaPoupanca, subclasse de ContaBancaria com rendimento mensal.
         return false;
     }
 }

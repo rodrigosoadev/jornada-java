@@ -18,3 +18,4 @@ public class arrayMultidim2 {
         }
     }
 }
+// Este arquivo demonstra array multidimensional preenchido manualmente com for aninhado.

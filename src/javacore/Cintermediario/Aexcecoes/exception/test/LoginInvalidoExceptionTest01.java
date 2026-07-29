@@ -28,3 +28,4 @@ public class LoginInvalidoExceptionTest01 {
         System.out.println("Usuário logado com sucesso");
     }
 }
+// Este arquivo demonstra o uso de uma exceção customizada (LoginInvalidoException) para validar login.

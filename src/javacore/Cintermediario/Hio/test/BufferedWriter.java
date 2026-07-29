@@ -20,3 +20,4 @@ public class BufferedWriter {
         }
     }
 }
+// Este arquivo demonstra BufferedReader para leitura eficiente de arquivos linha por linha.

@@ -26,3 +26,4 @@ public class DosFileAttributesTest01 {
 
     }
 }
+// Este arquivo demonstra atributos DOS como hidden e read-only em arquivos.

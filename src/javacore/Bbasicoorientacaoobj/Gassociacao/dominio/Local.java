@@ -42,5 +42,6 @@ public class Local {
     }
 
     
-    
+
 }
+// Este arquivo demonstra associação entre Local e Seminario com getters e setters.

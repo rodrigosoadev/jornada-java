@@ -27,6 +27,7 @@ public class Cliente {
 
     //metodo final
     
-
     
+
 }
+// Este arquivo demonstra bloco de inicialização estático executado uma vez pela JVM.

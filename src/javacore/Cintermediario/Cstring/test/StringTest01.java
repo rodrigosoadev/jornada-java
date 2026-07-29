@@ -13,3 +13,4 @@ public class StringTest01 {
         System.out.println(nome2 == nome3.intern());
     }
 }
+// Este arquivo demonstra o pool de strings constantes e comparação com == e intern().

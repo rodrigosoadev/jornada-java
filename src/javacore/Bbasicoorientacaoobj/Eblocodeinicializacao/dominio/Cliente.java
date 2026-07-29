@@ -29,6 +29,7 @@ public class Cliente {
     }
     //metodo final
     
-
     
+
 }
+// Este arquivo demonstra bloco de inicialização para preencher array antes do construtor.

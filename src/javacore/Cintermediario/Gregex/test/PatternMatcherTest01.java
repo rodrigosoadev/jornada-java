@@ -19,3 +19,4 @@ public class PatternMatcherTest01 {
         }
     }
 }
+// Este arquivo demonstra busca básica de padrões com Pattern e Matcher em strings.

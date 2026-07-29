@@ -15,3 +15,4 @@ public class FuncionarioTest {
 
     }
 }
+// Este arquivo demonstra polimorfismo com classes abstratas e métodos sobrescritos.

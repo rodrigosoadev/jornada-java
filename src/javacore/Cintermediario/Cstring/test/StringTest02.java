@@ -14,3 +14,4 @@ public class StringTest02 {
         
     }
 }
+// Este arquivo demonstra métodos da String como charAt, replace, substring e trim.

@@ -14,9 +14,5 @@ public class MetodoGenericoTest01 {
     private static <T> List<T> criarArrayComUmObjeto(T t) {
         return List.of(t);
     }
-
-    
-
 }
-
-
+// Este arquivo demonstra criação de método genérico para criar lista com um objeto.

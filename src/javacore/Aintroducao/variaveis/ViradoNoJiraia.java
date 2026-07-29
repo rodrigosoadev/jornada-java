@@ -15,3 +15,4 @@ public class ViradoNoJiraia {
         System.out.println("Sexo: " + sexo);
     }
 }
+// Este arquivo demonstra declaração de variáveis com tipos primitivos (byte, int, char, double) e String.

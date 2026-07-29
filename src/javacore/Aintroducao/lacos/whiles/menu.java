@@ -16,3 +16,4 @@ public class menu {
         System.out.println("Programa encerrado");
 }
 }
+// Este arquivo demonstra laço while implementando um menu interativo com opções para o usuário.

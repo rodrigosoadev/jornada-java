@@ -25,3 +25,4 @@ public class Turma {
     
     
 }
+// Este arquivo demonstra uma classe não serializável usada como campo transient em serialização.

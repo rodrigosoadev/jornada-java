@@ -12,6 +12,7 @@ public abstract class Pessoa {
      public void setNome(String nome) {
          this.nome = nome;
      }
+    
 
-     
 }
+// Este arquivo demonstra classe abstrata base com método abstrato imprime().

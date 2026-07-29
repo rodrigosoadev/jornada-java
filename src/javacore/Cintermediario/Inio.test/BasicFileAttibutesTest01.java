@@ -25,3 +25,4 @@ public class BasicFileAttibutesTest01 {
         System.out.println(Files.isExecutable(path));
     }
 }
+// Este arquivo demonstra atributos básicos de arquivos com File e Files do NIO.

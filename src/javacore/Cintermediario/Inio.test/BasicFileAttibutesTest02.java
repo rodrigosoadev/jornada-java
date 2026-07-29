@@ -33,3 +33,4 @@ public class BasicFileAttibutesTest02 {
         System.out.println("lastAccessTime " + lastAccessTime);
     }
 }
+// Este arquivo demonstra BasicFileAttributeView para ler e modificar atributos de arquivos.

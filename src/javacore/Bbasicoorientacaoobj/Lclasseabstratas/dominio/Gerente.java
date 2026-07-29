@@ -23,3 +23,4 @@ public class Gerente extends Funcionario {
     
 
 }
+// Este arquivo demonstra implementação de método abstrato para cálculo de salário do gerente.

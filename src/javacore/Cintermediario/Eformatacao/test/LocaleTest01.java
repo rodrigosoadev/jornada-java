@@ -22,3 +22,4 @@ public class LocaleTest01 {
 
     }
 }
+// Este arquivo demonstra Locale para formatar datas de acordo com diferentes regiões.

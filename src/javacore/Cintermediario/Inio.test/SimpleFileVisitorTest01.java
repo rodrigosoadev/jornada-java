@@ -21,3 +21,4 @@ public class SimpleFileVisitorTest01 {
         Files.walkFileTree(root, new ListAllFiles());
     }
 }
+// Este arquivo demonstra SimpleFileVisitor para percorrer toda a árvore de diretórios.

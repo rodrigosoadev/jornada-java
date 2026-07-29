@@ -13,3 +13,4 @@ public class ClasseGenericaTest02 {
         barcoRentavelService.retornarBarcoAlugado(barco);
     }
 }
+// Este arquivo demonstra uso de BarcoRentavelService sem generics.

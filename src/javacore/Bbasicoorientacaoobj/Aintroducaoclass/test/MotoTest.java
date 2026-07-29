@@ -13,3 +13,4 @@ public class MotoTest {
         System.out.println(moto.velocidadeMaxima);
     }
 }
+// Este arquivo demonstra instanciação de objeto e impressão de atributos de Moto.

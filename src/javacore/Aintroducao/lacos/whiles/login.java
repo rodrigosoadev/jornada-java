@@ -26,4 +26,4 @@ public class login {
             System.out.println("programa encerrado");
         }
 }
-
+// Este arquivo demonstra laço while com validação de login e senha até o acerto.

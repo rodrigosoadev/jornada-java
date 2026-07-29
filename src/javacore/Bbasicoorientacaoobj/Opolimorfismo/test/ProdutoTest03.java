@@ -17,3 +17,4 @@ public class ProdutoTest03 {
 
     }
 }
+// Este arquivo demonstra polimorfismo com instanceof para acessar método específico.

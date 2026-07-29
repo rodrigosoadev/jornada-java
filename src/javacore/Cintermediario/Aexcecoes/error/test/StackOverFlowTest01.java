@@ -9,3 +9,4 @@ public class StackOverFlowTest01 {
         recursividade();
     }
 }
+// Este arquivo demonstra o erro StackOverflowError causado por recursão infinita sem condição de parada.

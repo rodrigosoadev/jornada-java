@@ -14,6 +14,7 @@ public class NormalizeTest01 {
 
         
 
-
+ 
     }
 }
+// Este arquivo demonstra o método normalize() para eliminar elementos . e .. dos caminhos.

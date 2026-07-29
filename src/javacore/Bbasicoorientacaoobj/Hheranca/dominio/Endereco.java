@@ -19,5 +19,6 @@ public class Endereco {
     public void setBairro(String bairro) {
         this.bairro = bairro;
     }
-
+    
 }
+// Este arquivo demonstra classe Endereco usada como composição na classe Pessoa.

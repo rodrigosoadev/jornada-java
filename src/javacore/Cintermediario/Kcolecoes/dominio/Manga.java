@@ -124,3 +124,4 @@ public class Manga implements Comparable<Manga> {
     
     
 }
+// Este arquivo demonstra classe de domínio implementando Comparable para ordenação natural.

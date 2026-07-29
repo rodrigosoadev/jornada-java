@@ -15,6 +15,7 @@ public class ExceptionTest01 {
             System.out.println("Arquivo criado "+isCriado);
         } catch (IOException e) {
             e.printStackTrace();
-        }
+}
+// Este arquivo demonstra o tratamento de exceções checked (IOException) com try-catch ao criar arquivos.
     }
 }

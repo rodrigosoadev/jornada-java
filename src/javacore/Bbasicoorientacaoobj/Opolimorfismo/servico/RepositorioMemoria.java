@@ -9,3 +9,4 @@ public class RepositorioMemoria implements Repositorio{
         
     }
 }
+// Este arquivo demonstra polimorfismo com interface Repositorio salvando em memória.

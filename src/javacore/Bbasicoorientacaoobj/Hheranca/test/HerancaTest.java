@@ -27,3 +27,4 @@ public class HerancaTest {
 
     }
 }
+// Este arquivo demonstra herança com chamada ao construtor da superclasse via super().

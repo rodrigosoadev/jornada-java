@@ -49,3 +49,4 @@ public class Consumidor {
 
     
 }
+// Este arquivo demonstra classe de domínio Consumidor com id aleatório, equals e hashCode.

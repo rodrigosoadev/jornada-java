@@ -31,3 +31,4 @@ public class SmartphoneListTest01 {
     }
 
 }
+// Este arquivo demonstra operações com List: add, indexOf e contains em objetos Smartphone.

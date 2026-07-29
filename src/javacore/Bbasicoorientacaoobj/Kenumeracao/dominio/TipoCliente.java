@@ -27,5 +27,6 @@ public enum TipoCliente {
     public int getTipo() {
         return tipo;
     }
-
+    
 }
+// Este arquivo demonstra enum com atributos, construtor e métodos específicos.

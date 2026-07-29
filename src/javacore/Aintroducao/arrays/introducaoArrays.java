@@ -16,3 +16,4 @@ public class introducaoArrays {
     }
     
 }
+// Este arquivo demonstra a criação de um array unidimensional e iteração com for-each.

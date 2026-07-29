@@ -25,3 +25,4 @@ public class PatternMatcherTest02 {
         }
     }
 }
+// Este arquivo demonstra meta-caracteres em regex: \d, \D, \s, \S, \w, \W.

@@ -43,3 +43,4 @@ public class WrapperTest01 {
     }
 
 }
+// Este arquivo demonstra autoboxing e unboxing com classes wrapper e métodos utilitários como Character.isDigit.

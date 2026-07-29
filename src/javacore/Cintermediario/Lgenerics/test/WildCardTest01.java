@@ -38,3 +38,4 @@ public class WildCardTest01 {
         
     }
 }
+// Este arquivo demonstra polimorfismo com arrays de Animal usando classe abstrata.

@@ -77,3 +77,4 @@ public class Funcionario {
 
 //metodos final       
 }
+// Este arquivo demonstra sobrecarga de métodos e construtores na classe Funcionario.

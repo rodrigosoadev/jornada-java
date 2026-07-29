@@ -26,5 +26,6 @@ public class DatabaseLoader implements DataLoader, DataRemover {
     }
 
     
-    
+
 }
+// Este arquivo demonstra implementação de interfaces com sobrescrita de métodos.

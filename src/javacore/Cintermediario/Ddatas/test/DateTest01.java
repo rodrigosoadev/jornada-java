@@ -9,3 +9,4 @@ public class DateTest01 {
         System.out.println(date);
     }
 }
+// Este arquivo demonstra a classe Date para representar timestamps em milissegundos.

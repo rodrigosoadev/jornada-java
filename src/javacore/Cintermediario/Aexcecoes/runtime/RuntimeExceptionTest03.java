@@ -31,3 +31,4 @@ public class RuntimeExceptionTest03 {
         }
     }
 }
+// Este arquivo demonstra o uso do bloco finally para fechar recursos, garantindo execução independente de exceção.

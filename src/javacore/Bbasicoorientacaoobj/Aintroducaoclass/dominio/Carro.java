@@ -5,3 +5,4 @@ public class Carro {
     public String modelo;
     public float velocidadeMaxima;
 }
+// Este arquivo demonstra criação de classe com atributos públicos (placa, modelo, velocidadeMaxima).

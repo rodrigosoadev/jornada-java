@@ -23,3 +23,4 @@ public class PathMatcherTest01 {
         System.out.println(glob + " :"+matcher.matches(path));
     }
 }
+// Este arquivo demonstra PathMatcher com padrões glob para buscar arquivos.

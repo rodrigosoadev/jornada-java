@@ -30,3 +30,4 @@ public class AnonymousClassesTest02 {
 
     }
 }
+// Este arquivo demonstra o uso de classes anônimas em Java para implementar um Comparator sem criar uma classe separada, simplificando a ordenação de objetos.

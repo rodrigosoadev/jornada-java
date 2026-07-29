@@ -52,5 +52,6 @@ public class Professor {
     public void setSeminarios(Seminario[] seminarios) {
         this.seminarios = seminarios;
     }
-
+    
 }
+// Este arquivo demonstra associação com array de Seminarios para um Professor.

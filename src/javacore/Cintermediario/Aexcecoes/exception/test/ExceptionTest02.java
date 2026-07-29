@@ -18,6 +18,7 @@ public class ExceptionTest02 {
         } catch (IOException e) {
             e.printStackTrace();
             throw new RuntimeException("Problema na hora de criar o arquivo.");
-        }
+}
+// Este arquivo demonstra a propagação de exceções com throws e o relançamento como RuntimeException.
     }
 }

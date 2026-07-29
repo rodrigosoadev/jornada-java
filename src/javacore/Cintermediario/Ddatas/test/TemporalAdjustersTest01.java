@@ -37,3 +37,4 @@ public class TemporalAdjustersTest01 {
 
     }
 }
+// Este arquivo demonstra TemporalAdjusters para ajustar datas como próximo dia útil ou primeiro do mês.

@@ -42,3 +42,4 @@ public class SimpleFileVisitorTest02 {
         Files.walkFileTree(root, new ListAllFiles());
     }
 }
+// Este arquivo demonstra pré-visita e pós-visita com SimpleFileVisitor na árvore de diretórios.

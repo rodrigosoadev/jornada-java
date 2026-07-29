@@ -16,5 +16,7 @@ public class arrayMultidim {
         }
 
 
-    }}
+    }
+}
+// Este arquivo demonstra array bidimensional com for-each aninhado para percorrer elementos.
 

@@ -46,3 +46,4 @@ public class MangaSortTest01 {
         //System.out.println(mangas);
     }
 }
+// Este arquivo demonstra ordenação de objetos com Comparable e Comparator por ID.

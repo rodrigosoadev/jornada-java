@@ -15,3 +15,4 @@ public class MangaPrecoComparator implements Comparator<Manga> {
 	}
 
 }
+// Este arquivo implementa Comparator para ordenar Mangas pelo preço.

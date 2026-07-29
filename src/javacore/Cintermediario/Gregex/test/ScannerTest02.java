@@ -23,3 +23,4 @@ public class ScannerTest02 {
         
     }
 }
+// Este arquivo demonstra Scanner com delimitador e verificação de tipos (int, boolean).

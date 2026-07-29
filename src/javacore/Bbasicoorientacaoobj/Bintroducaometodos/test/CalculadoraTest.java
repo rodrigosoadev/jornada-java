@@ -20,3 +20,4 @@ public class CalculadoraTest {
         calc.somaVarArgs(1,2,3,4,5);
     }
 }
+// Este arquivo demonstra chamada de métodos da Calculadora com diversos tipos de parâmetro.

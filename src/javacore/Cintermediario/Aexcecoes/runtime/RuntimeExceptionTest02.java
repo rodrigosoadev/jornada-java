@@ -18,7 +18,8 @@ public class RuntimeExceptionTest02 {
     private static int divisao(int a, int b) {
         if (b == 0) {
             throw new IllegalStateException("Argumento inválido, não pode ser 0");
-        }
+}
+// Este arquivo demonstra o lançamento de exceções específicas com IllegalArgumentException validação de argumentos.
         // try {
         // return a / b;
 

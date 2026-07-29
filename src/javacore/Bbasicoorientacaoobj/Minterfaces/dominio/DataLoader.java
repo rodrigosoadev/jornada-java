@@ -13,3 +13,4 @@ public interface DataLoader {
         System.out.println("Dentro do retrieveMaxDataSize na interface - DataLoader");
     }
 }
+// Este arquivo demonstra interface com método default, static e constante.

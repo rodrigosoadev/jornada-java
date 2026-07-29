@@ -72,5 +72,6 @@ public class Seminario {
     public void setLocal(Local local) {
         this.local = local;
     }
-
+    
 }
+// Este arquivo demonstra associações entre Seminario, Aluno, Professor e Local.

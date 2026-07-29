@@ -22,3 +22,4 @@ public class Peixe extends Animal {
     
 
 }
+// Este arquivo define a subclasse Peixe com atributo característica e print() sobrescrito.

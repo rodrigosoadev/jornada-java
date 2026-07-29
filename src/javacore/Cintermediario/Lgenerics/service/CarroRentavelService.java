@@ -24,3 +24,4 @@ public class CarroRentavelService {
         System.out.println(carrosDisponiveis);
     }
 }
+// Este arquivo demonstra serviço de aluguel de carros sem uso de generics.

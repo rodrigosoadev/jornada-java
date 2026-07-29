@@ -28,3 +28,4 @@ public class PathMatcherTest02 {
         Files.walkFileTree(root, new FindAllTestJavaOrClass());
     }
 }
+// Este arquivo demonstra PathMatcher combinado com walkFileTree para buscar arquivos.

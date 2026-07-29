@@ -11,3 +11,4 @@ public class tabuadaAuto {
         }
     }
 }
+// Este arquivo demonstra laço for aninhado para gerar a tabuada completa de 1 a 10.

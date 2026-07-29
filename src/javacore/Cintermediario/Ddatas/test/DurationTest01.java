@@ -28,3 +28,4 @@ public class DurationTest01 {
 
     }
 }
+// Este arquivo demonstra Duration para medir intervalos de tempo entre datas/horas.

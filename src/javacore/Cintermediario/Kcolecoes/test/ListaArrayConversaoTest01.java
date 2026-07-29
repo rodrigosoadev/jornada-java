@@ -40,3 +40,4 @@ public class ListaArrayConversaoTest01 {
 
     }
 }
+// Este arquivo demonstra conversão entre List e Array usando toArray() e Arrays.asList().

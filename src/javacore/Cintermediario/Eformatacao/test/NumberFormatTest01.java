@@ -28,3 +28,4 @@ public class NumberFormatTest01 {
         }
     }
 }
+// Este arquivo demonstra NumberFormat para formatar números de acordo com diferentes localidades.

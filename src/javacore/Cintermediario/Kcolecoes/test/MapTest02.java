@@ -27,3 +27,4 @@ public class MapTest02 {
 
     }
 }
+// Este arquivo demonstra LinkedHashMap associando consumidores a mangás com iteração.

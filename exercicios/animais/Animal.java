@@ -32,3 +32,4 @@ public abstract class Animal {
     
 
 }
+// Este arquivo define a superclasse abstrata Animal com atributos e método print().

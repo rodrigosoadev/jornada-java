@@ -11,3 +11,4 @@ public class InstantTest01 {
         System.out.println(now.getNano()); // 999.999.999 se adicionar mais 1, vira 1 segundo.
     }
 }
+// Este arquivo demonstra Instant para representar timestamps em nanossegundos (UTC).

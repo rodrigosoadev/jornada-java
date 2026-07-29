@@ -29,3 +29,4 @@ public class IteratorTest01 {
        System.out.println(mangas);
     }
 }
+// Este arquivo demonstra remoção de elementos com Iterator e removeIf() em uma lista.

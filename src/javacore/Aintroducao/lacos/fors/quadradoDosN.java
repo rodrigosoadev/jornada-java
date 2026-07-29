@@ -7,3 +7,4 @@ public class quadradoDosN {
         }
     }
 }
+// Este arquivo demonstra laço for para calcular e exibir o quadrado dos números de 15 a 200.

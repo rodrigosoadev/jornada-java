@@ -56,5 +56,5 @@ public class Carro {
 
 
 
-
 }
+// Este arquivo demonstra uso do modificador static em atributo e método da classe Carro.

@@ -33,3 +33,4 @@ public class PatternMatcherTest04 {
         
     }
 }
+// Este arquivo demonstra quantificadores em regex: ?, *, +, {n,m} e grupos.

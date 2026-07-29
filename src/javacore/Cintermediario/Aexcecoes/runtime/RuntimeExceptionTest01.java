@@ -8,3 +8,4 @@ public static void main(String[] args) {
 }
 
 }
+// Este arquivo demonstra exceções unchecked (RuntimeException) como ArrayIndexOutOfBoundsException em tempo de execução.

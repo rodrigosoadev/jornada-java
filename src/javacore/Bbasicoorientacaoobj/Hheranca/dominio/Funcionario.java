@@ -29,5 +29,6 @@ public class Funcionario extends Pessoa {
     public void setSalario(double salario) {
         this.salario = salario;
     }
-
+    
 }
+// Este arquivo demonstra herança com super() e sobrescrita do método print().

@@ -38,3 +38,4 @@ public class ListSortTest01 {
 
     }
 }
+// Este arquivo demonstra ordenação de listas com Collections.sort() para Strings e Doubles.

@@ -34,3 +34,4 @@ public class ListTest01 {
 
     }
 }
+// Este arquivo demonstra uso básico de ArrayList com List, métodos add, addAll e iteração.

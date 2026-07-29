@@ -3,3 +3,4 @@ package javacore.Bbasicoorientacaoobj.Opolimorfismo.dominio;
 public interface Taxavel {
     public abstract double calcularImposto();
 }
+// Este arquivo demonstra interface Taxavel com método abstrato calcularImposto.

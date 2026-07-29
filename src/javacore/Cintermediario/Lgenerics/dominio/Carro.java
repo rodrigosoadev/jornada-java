@@ -14,3 +14,4 @@ public class Carro {
 
     
 }
+// Este arquivo demonstra classe de domínio Carro com nome para exemplos de generics.

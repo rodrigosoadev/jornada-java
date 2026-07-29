@@ -12,5 +12,6 @@ public class Main {
         System.out.println("-----------");
         urso.print();
 
-    }
+}
+// Este arquivo testa a criação e exibição de objetos Peixe, Camelo e Urso.
 }

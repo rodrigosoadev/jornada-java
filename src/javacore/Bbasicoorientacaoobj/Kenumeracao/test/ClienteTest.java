@@ -10,3 +10,4 @@ public class ClienteTest {
         System.out.println(cliente);
     }
 }
+// Este arquivo demonstra criação de cliente utilizando enumerações TipoCliente e TipoPagamento.

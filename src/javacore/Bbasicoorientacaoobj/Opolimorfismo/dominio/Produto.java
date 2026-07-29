@@ -16,5 +16,6 @@ public abstract class Produto implements Taxavel {
     public double getValor() {
         return valor;
     }
-
+    
 }
+// Este arquivo demonstra classe abstrata Produto que implementa a interface Taxavel.

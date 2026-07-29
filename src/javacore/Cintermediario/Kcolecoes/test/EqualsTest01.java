@@ -9,3 +9,4 @@ public class EqualsTest01 {
         System.out.println(s1.equals(s2));
     }
 }
+// Este arquivo demonstra o uso do método equals() para comparar objetos Smartphone.

@@ -61,3 +61,4 @@ public class Smartphone {
 
     
 }
+// Este arquivo demonstra classe de domínio com equals e hashCode baseados no serialNumber.

@@ -26,3 +26,4 @@ public class EstudanteTest {
     
     }
 }
+// Este arquivo demonstra uso de setters e chamada de métodos do objeto Estudante.

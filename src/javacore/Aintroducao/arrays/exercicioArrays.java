@@ -27,3 +27,4 @@ public class exercicioArrays {
         
     }
 }
+// Este arquivo demonstra preenchimento de arrays via Scanner e multiplicação de elementos correspondentes.

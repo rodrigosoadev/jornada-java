@@ -27,3 +27,4 @@ public class PatternMatcherTest03 {
         
     }
 }
+// Este arquivo demonstra o uso de ranges [] em expressões regulares no Java.

@@ -29,3 +29,4 @@ public class BinarySearchTest02 {
 
     }
 }
+// Este arquivo demonstra busca binária com Comparator personalizado em lista de Mangas.

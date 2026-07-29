@@ -37,3 +37,4 @@ public class Vendedor  extends Funcionario{
    
     
 }
+// Este arquivo demonstra implementação de método abstrato para cálculo de salário do vendedor.

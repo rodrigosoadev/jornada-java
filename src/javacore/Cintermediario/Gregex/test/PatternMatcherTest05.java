@@ -38,3 +38,4 @@ public class PatternMatcherTest05 {
         
     }
 }
+// Este arquivo demonstra validação de emails usando expressões regulares em Java.
